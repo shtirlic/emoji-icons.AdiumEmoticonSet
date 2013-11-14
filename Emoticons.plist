@@ -6,6 +6,24 @@
 	<integer>1</integer>
 	<key>Emoticons</key>
 	<dict>
+		<key>0</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:0:</string>
+			</array>
+			<key>Name</key>
+			<string>:0:</string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:1:</string>
+			</array>
+			<key>Name</key>
+			<string>:1:</string>
+		</dict>
 		<key>100</key>
 		<dict>
 			<key>Equivalents</key>
@@ -14,6 +32,15 @@
 			</array>
 			<key>Name</key>
 			<string>:100:</string>
+		</dict>
+		<key>109</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:109:</string>
+			</array>
+			<key>Name</key>
+			<string>:109:</string>
 		</dict>
 		<key>1234</key>
 		<dict>
@@ -24,6 +51,69 @@
 			<key>Name</key>
 			<string>:1234:</string>
 		</dict>
+		<key>2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:2:</string>
+			</array>
+			<key>Name</key>
+			<string>:2:</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:3:</string>
+			</array>
+			<key>Name</key>
+			<string>:3:</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:4:</string>
+			</array>
+			<key>Name</key>
+			<string>:4:</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:5:</string>
+			</array>
+			<key>Name</key>
+			<string>:5:</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:6:</string>
+			</array>
+			<key>Name</key>
+			<string>:6:</string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:7:</string>
+			</array>
+			<key>Name</key>
+			<string>:7:</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:8:</string>
+			</array>
+			<key>Name</key>
+			<string>:8:</string>
+		</dict>
 		<key>8ball</key>
 		<dict>
 			<key>Equivalents</key>
@@ -32,6 +122,15 @@
 			</array>
 			<key>Name</key>
 			<string>:8ball:</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:9:</string>
+			</array>
+			<key>Name</key>
+			<string>:9:</string>
 		</dict>
 		<key>a</key>
 		<dict>
@@ -2310,6 +2409,15 @@
 			<key>Name</key>
 			<string>:eggplant:</string>
 		</dict>
+		<key>egplant</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:egplant:</string>
+			</array>
+			<key>Name</key>
+			<string>:egplant:</string>
+		</dict>
 		<key>eight</key>
 		<dict>
 			<key>Equivalents</key>
@@ -4290,7 +4398,7 @@
 			<key>Name</key>
 			<string>:minidisc:</string>
 		</dict>
-		<key>minus1</key>
+		<key>minus1.png</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -5235,7 +5343,7 @@
 			<key>Name</key>
 			<string>:pizza:</string>
 		</dict>
-		<key>plus1</key>
+		<key>plus1.png</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -7718,6 +7826,15 @@
 			</array>
 			<key>Name</key>
 			<string>:wink:</string>
+		</dict>
+		<key>wink2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:wink2:</string>
+			</array>
+			<key>Name</key>
+			<string>:wink2:</string>
 		</dict>
 		<key>wolf</key>
 		<dict>
