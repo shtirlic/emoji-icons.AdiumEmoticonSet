@@ -6,7 +6,7 @@
 	<integer>1</integer>
 	<key>Emoticons</key>
 	<dict>
-		<key>0.png</key>
+		<key>0</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -15,7 +15,7 @@
 			<key>Name</key>
 			<string>:0:</string>
 		</dict>
-		<key>1.png</key>
+		<key>1</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -24,7 +24,16 @@
 			<key>Name</key>
 			<string>:1:</string>
 		</dict>
-		<key>109.png</key>
+		<key>100</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:100:</string>
+			</array>
+			<key>Name</key>
+			<string>:100:</string>
+		</dict>
+		<key>109</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -33,7 +42,16 @@
 			<key>Name</key>
 			<string>:109:</string>
 		</dict>
-		<key>2.png</key>
+		<key>1234</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:1234:</string>
+			</array>
+			<key>Name</key>
+			<string>:1234:</string>
+		</dict>
+		<key>2</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -42,7 +60,7 @@
 			<key>Name</key>
 			<string>:2:</string>
 		</dict>
-		<key>3.png</key>
+		<key>3</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -51,7 +69,7 @@
 			<key>Name</key>
 			<string>:3:</string>
 		</dict>
-		<key>4.png</key>
+		<key>4</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -60,7 +78,7 @@
 			<key>Name</key>
 			<string>:4:</string>
 		</dict>
-		<key>5.png</key>
+		<key>5</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -69,7 +87,7 @@
 			<key>Name</key>
 			<string>:5:</string>
 		</dict>
-		<key>6.png</key>
+		<key>6</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -78,7 +96,7 @@
 			<key>Name</key>
 			<string>:6:</string>
 		</dict>
-		<key>7.png</key>
+		<key>7</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -87,7 +105,7 @@
 			<key>Name</key>
 			<string>:7:</string>
 		</dict>
-		<key>8.png</key>
+		<key>8</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -96,7 +114,7 @@
 			<key>Name</key>
 			<string>:8:</string>
 		</dict>
-		<key>8ball.png</key>
+		<key>8ball</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -105,7 +123,7 @@
 			<key>Name</key>
 			<string>:8ball:</string>
 		</dict>
-		<key>9.png</key>
+		<key>9</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -114,7 +132,7 @@
 			<key>Name</key>
 			<string>:9:</string>
 		</dict>
-		<key>a.png</key>
+		<key>a</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -123,7 +141,7 @@
 			<key>Name</key>
 			<string>:a:</string>
 		</dict>
-		<key>ab.png</key>
+		<key>ab</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -132,7 +150,43 @@
 			<key>Name</key>
 			<string>:ab:</string>
 		</dict>
-		<key>airplane.png</key>
+		<key>abc</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:abc:</string>
+			</array>
+			<key>Name</key>
+			<string>:abc:</string>
+		</dict>
+		<key>abcd</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:abcd:</string>
+			</array>
+			<key>Name</key>
+			<string>:abcd:</string>
+		</dict>
+		<key>accept</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:accept:</string>
+			</array>
+			<key>Name</key>
+			<string>:accept:</string>
+		</dict>
+		<key>aerial_tramway</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:aerial_tramway:</string>
+			</array>
+			<key>Name</key>
+			<string>:aerial_tramway:</string>
+		</dict>
+		<key>airplane</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -141,7 +195,16 @@
 			<key>Name</key>
 			<string>:airplane:</string>
 		</dict>
-		<key>alien.png</key>
+		<key>alarm_clock</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:alarm_clock:</string>
+			</array>
+			<key>Name</key>
+			<string>:alarm_clock:</string>
+		</dict>
+		<key>alien</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -150,7 +213,7 @@
 			<key>Name</key>
 			<string>:alien:</string>
 		</dict>
-		<key>ambulance.png</key>
+		<key>ambulance</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -159,7 +222,16 @@
 			<key>Name</key>
 			<string>:ambulance:</string>
 		</dict>
-		<key>angel.png</key>
+		<key>anchor</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:anchor:</string>
+			</array>
+			<key>Name</key>
+			<string>:anchor:</string>
+		</dict>
+		<key>angel</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -168,7 +240,7 @@
 			<key>Name</key>
 			<string>:angel:</string>
 		</dict>
-		<key>anger.png</key>
+		<key>anger</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -177,7 +249,7 @@
 			<key>Name</key>
 			<string>:anger:</string>
 		</dict>
-		<key>angry.png</key>
+		<key>angry</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -186,7 +258,25 @@
 			<key>Name</key>
 			<string>:angry:</string>
 		</dict>
-		<key>apple.png</key>
+		<key>anguished</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:anguished:</string>
+			</array>
+			<key>Name</key>
+			<string>:anguished:</string>
+		</dict>
+		<key>ant</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:ant:</string>
+			</array>
+			<key>Name</key>
+			<string>:ant:</string>
+		</dict>
+		<key>apple</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -195,7 +285,7 @@
 			<key>Name</key>
 			<string>:apple:</string>
 		</dict>
-		<key>aquarius.png</key>
+		<key>aquarius</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -204,7 +294,7 @@
 			<key>Name</key>
 			<string>:aquarius:</string>
 		</dict>
-		<key>aries.png</key>
+		<key>aries</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -213,7 +303,7 @@
 			<key>Name</key>
 			<string>:aries:</string>
 		</dict>
-		<key>arrow_backward.png</key>
+		<key>arrow_backward</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -222,7 +312,25 @@
 			<key>Name</key>
 			<string>:arrow_backward:</string>
 		</dict>
-		<key>arrow_down.png</key>
+		<key>arrow_double_down</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrow_double_down:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrow_double_down:</string>
+		</dict>
+		<key>arrow_double_up</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrow_double_up:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrow_double_up:</string>
+		</dict>
+		<key>arrow_down</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -231,7 +339,16 @@
 			<key>Name</key>
 			<string>:arrow_down:</string>
 		</dict>
-		<key>arrow_forward.png</key>
+		<key>arrow_down_small</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrow_down_small:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrow_down_small:</string>
+		</dict>
+		<key>arrow_forward</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -240,7 +357,25 @@
 			<key>Name</key>
 			<string>:arrow_forward:</string>
 		</dict>
-		<key>arrow_left.png</key>
+		<key>arrow_heading_down</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrow_heading_down:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrow_heading_down:</string>
+		</dict>
+		<key>arrow_heading_up</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrow_heading_up:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrow_heading_up:</string>
+		</dict>
+		<key>arrow_left</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -249,7 +384,7 @@
 			<key>Name</key>
 			<string>:arrow_left:</string>
 		</dict>
-		<key>arrow_lower_left.png</key>
+		<key>arrow_lower_left</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -258,7 +393,7 @@
 			<key>Name</key>
 			<string>:arrow_lower_left:</string>
 		</dict>
-		<key>arrow_lower_right.png</key>
+		<key>arrow_lower_right</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -267,7 +402,7 @@
 			<key>Name</key>
 			<string>:arrow_lower_right:</string>
 		</dict>
-		<key>arrow_right.png</key>
+		<key>arrow_right</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -276,7 +411,16 @@
 			<key>Name</key>
 			<string>:arrow_right:</string>
 		</dict>
-		<key>arrow_up.png</key>
+		<key>arrow_right_hook</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrow_right_hook:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrow_right_hook:</string>
+		</dict>
+		<key>arrow_up</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -285,7 +429,25 @@
 			<key>Name</key>
 			<string>:arrow_up:</string>
 		</dict>
-		<key>arrow_upper_left.png</key>
+		<key>arrow_up_down</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrow_up_down:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrow_up_down:</string>
+		</dict>
+		<key>arrow_up_small</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrow_up_small:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrow_up_small:</string>
+		</dict>
+		<key>arrow_upper_left</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -294,7 +456,7 @@
 			<key>Name</key>
 			<string>:arrow_upper_left:</string>
 		</dict>
-		<key>arrow_upper_right.png</key>
+		<key>arrow_upper_right</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -303,7 +465,25 @@
 			<key>Name</key>
 			<string>:arrow_upper_right:</string>
 		</dict>
-		<key>art.png</key>
+		<key>arrows_clockwise</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrows_clockwise:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrows_clockwise:</string>
+		</dict>
+		<key>arrows_counterclockwise</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:arrows_counterclockwise:</string>
+			</array>
+			<key>Name</key>
+			<string>:arrows_counterclockwise:</string>
+		</dict>
+		<key>art</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -312,7 +492,16 @@
 			<key>Name</key>
 			<string>:art:</string>
 		</dict>
-		<key>astonished.png</key>
+		<key>articulated_lorry</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:articulated_lorry:</string>
+			</array>
+			<key>Name</key>
+			<string>:articulated_lorry:</string>
+		</dict>
+		<key>astonished</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -321,7 +510,7 @@
 			<key>Name</key>
 			<string>:astonished:</string>
 		</dict>
-		<key>atm.png</key>
+		<key>atm</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -330,7 +519,7 @@
 			<key>Name</key>
 			<string>:atm:</string>
 		</dict>
-		<key>b.png</key>
+		<key>b</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -339,7 +528,7 @@
 			<key>Name</key>
 			<string>:b:</string>
 		</dict>
-		<key>baby.png</key>
+		<key>baby</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -348,7 +537,16 @@
 			<key>Name</key>
 			<string>:baby:</string>
 		</dict>
-		<key>baby_chick.png</key>
+		<key>baby_bottle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:baby_bottle:</string>
+			</array>
+			<key>Name</key>
+			<string>:baby_bottle:</string>
+		</dict>
+		<key>baby_chick</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -357,7 +555,7 @@
 			<key>Name</key>
 			<string>:baby_chick:</string>
 		</dict>
-		<key>baby_symbol.png</key>
+		<key>baby_symbol</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -366,7 +564,16 @@
 			<key>Name</key>
 			<string>:baby_symbol:</string>
 		</dict>
-		<key>balloon.png</key>
+		<key>baggage_claim</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:baggage_claim:</string>
+			</array>
+			<key>Name</key>
+			<string>:baggage_claim:</string>
+		</dict>
+		<key>balloon</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -375,7 +582,16 @@
 			<key>Name</key>
 			<string>:balloon:</string>
 		</dict>
-		<key>bamboo.png</key>
+		<key>ballot_box_with_check</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:ballot_box_with_check:</string>
+			</array>
+			<key>Name</key>
+			<string>:ballot_box_with_check:</string>
+		</dict>
+		<key>bamboo</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -384,7 +600,25 @@
 			<key>Name</key>
 			<string>:bamboo:</string>
 		</dict>
-		<key>bank.png</key>
+		<key>banana</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:banana:</string>
+			</array>
+			<key>Name</key>
+			<string>:banana:</string>
+		</dict>
+		<key>bangbang</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bangbang:</string>
+			</array>
+			<key>Name</key>
+			<string>:bangbang:</string>
+		</dict>
+		<key>bank</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -393,7 +627,16 @@
 			<key>Name</key>
 			<string>:bank:</string>
 		</dict>
-		<key>barber.png</key>
+		<key>bar_chart</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bar_chart:</string>
+			</array>
+			<key>Name</key>
+			<string>:bar_chart:</string>
+		</dict>
+		<key>barber</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -402,7 +645,7 @@
 			<key>Name</key>
 			<string>:barber:</string>
 		</dict>
-		<key>baseball.png</key>
+		<key>baseball</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -411,7 +654,7 @@
 			<key>Name</key>
 			<string>:baseball:</string>
 		</dict>
-		<key>basketball.png</key>
+		<key>basketball</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -420,7 +663,7 @@
 			<key>Name</key>
 			<string>:basketball:</string>
 		</dict>
-		<key>bath.png</key>
+		<key>bath</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -429,7 +672,25 @@
 			<key>Name</key>
 			<string>:bath:</string>
 		</dict>
-		<key>bear.png</key>
+		<key>bathtub</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bathtub:</string>
+			</array>
+			<key>Name</key>
+			<string>:bathtub:</string>
+		</dict>
+		<key>battery</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:battery:</string>
+			</array>
+			<key>Name</key>
+			<string>:battery:</string>
+		</dict>
+		<key>bear</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -438,7 +699,16 @@
 			<key>Name</key>
 			<string>:bear:</string>
 		</dict>
-		<key>beer.png</key>
+		<key>bee</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bee:</string>
+			</array>
+			<key>Name</key>
+			<string>:bee:</string>
+		</dict>
+		<key>beer</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -447,7 +717,7 @@
 			<key>Name</key>
 			<string>:beer:</string>
 		</dict>
-		<key>beers.png</key>
+		<key>beers</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -456,7 +726,16 @@
 			<key>Name</key>
 			<string>:beers:</string>
 		</dict>
-		<key>beginner.png</key>
+		<key>beetle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:beetle:</string>
+			</array>
+			<key>Name</key>
+			<string>:beetle:</string>
+		</dict>
+		<key>beginner</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -465,7 +744,7 @@
 			<key>Name</key>
 			<string>:beginner:</string>
 		</dict>
-		<key>bell.png</key>
+		<key>bell</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -474,7 +753,7 @@
 			<key>Name</key>
 			<string>:bell:</string>
 		</dict>
-		<key>bento.png</key>
+		<key>bento</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -483,7 +762,16 @@
 			<key>Name</key>
 			<string>:bento:</string>
 		</dict>
-		<key>bike.png</key>
+		<key>bicyclist</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bicyclist:</string>
+			</array>
+			<key>Name</key>
+			<string>:bicyclist:</string>
+		</dict>
+		<key>bike</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -492,7 +780,7 @@
 			<key>Name</key>
 			<string>:bike:</string>
 		</dict>
-		<key>bikini.png</key>
+		<key>bikini</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -501,7 +789,7 @@
 			<key>Name</key>
 			<string>:bikini:</string>
 		</dict>
-		<key>bird.png</key>
+		<key>bird</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -510,7 +798,7 @@
 			<key>Name</key>
 			<string>:bird:</string>
 		</dict>
-		<key>birthday.png</key>
+		<key>birthday</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -519,7 +807,34 @@
 			<key>Name</key>
 			<string>:birthday:</string>
 		</dict>
-		<key>black_square.png</key>
+		<key>black_circle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:black_circle:</string>
+			</array>
+			<key>Name</key>
+			<string>:black_circle:</string>
+		</dict>
+		<key>black_joker</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:black_joker:</string>
+			</array>
+			<key>Name</key>
+			<string>:black_joker:</string>
+		</dict>
+		<key>black_nib</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:black_nib:</string>
+			</array>
+			<key>Name</key>
+			<string>:black_nib:</string>
+		</dict>
+		<key>black_square</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -528,7 +843,43 @@
 			<key>Name</key>
 			<string>:black_square:</string>
 		</dict>
-		<key>blue_car.png</key>
+		<key>black_square_button</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:black_square_button:</string>
+			</array>
+			<key>Name</key>
+			<string>:black_square_button:</string>
+		</dict>
+		<key>blossom</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:blossom:</string>
+			</array>
+			<key>Name</key>
+			<string>:blossom:</string>
+		</dict>
+		<key>blowfish</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:blowfish:</string>
+			</array>
+			<key>Name</key>
+			<string>:blowfish:</string>
+		</dict>
+		<key>blue_book</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:blue_book:</string>
+			</array>
+			<key>Name</key>
+			<string>:blue_book:</string>
+		</dict>
+		<key>blue_car</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -537,7 +888,7 @@
 			<key>Name</key>
 			<string>:blue_car:</string>
 		</dict>
-		<key>blue_heart.png</key>
+		<key>blue_heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -546,7 +897,7 @@
 			<key>Name</key>
 			<string>:blue_heart:</string>
 		</dict>
-		<key>blush.png</key>
+		<key>blush</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -555,7 +906,7 @@
 			<key>Name</key>
 			<string>:blush:</string>
 		</dict>
-		<key>boar.png</key>
+		<key>boar</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -564,7 +915,7 @@
 			<key>Name</key>
 			<string>:boar:</string>
 		</dict>
-		<key>boat.png</key>
+		<key>boat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -573,7 +924,7 @@
 			<key>Name</key>
 			<string>:boat:</string>
 		</dict>
-		<key>bomb.png</key>
+		<key>bomb</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -582,7 +933,7 @@
 			<key>Name</key>
 			<string>:bomb:</string>
 		</dict>
-		<key>book.png</key>
+		<key>book</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -591,7 +942,43 @@
 			<key>Name</key>
 			<string>:book:</string>
 		</dict>
-		<key>boot.png</key>
+		<key>bookmark</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bookmark:</string>
+			</array>
+			<key>Name</key>
+			<string>:bookmark:</string>
+		</dict>
+		<key>bookmark_tabs</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bookmark_tabs:</string>
+			</array>
+			<key>Name</key>
+			<string>:bookmark_tabs:</string>
+		</dict>
+		<key>books</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:books:</string>
+			</array>
+			<key>Name</key>
+			<string>:books:</string>
+		</dict>
+		<key>boom</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:boom:</string>
+			</array>
+			<key>Name</key>
+			<string>:boom:</string>
+		</dict>
+		<key>boot</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -600,7 +987,7 @@
 			<key>Name</key>
 			<string>:boot:</string>
 		</dict>
-		<key>bouquet.png</key>
+		<key>bouquet</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -609,7 +996,7 @@
 			<key>Name</key>
 			<string>:bouquet:</string>
 		</dict>
-		<key>bow.png</key>
+		<key>bow</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -618,7 +1005,16 @@
 			<key>Name</key>
 			<string>:bow:</string>
 		</dict>
-		<key>bowtie.png</key>
+		<key>bowling</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bowling:</string>
+			</array>
+			<key>Name</key>
+			<string>:bowling:</string>
+		</dict>
+		<key>bowtie</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -627,7 +1023,7 @@
 			<key>Name</key>
 			<string>:bowtie:</string>
 		</dict>
-		<key>boy.png</key>
+		<key>boy</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -636,7 +1032,7 @@
 			<key>Name</key>
 			<string>:boy:</string>
 		</dict>
-		<key>bread.png</key>
+		<key>bread</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -645,7 +1041,25 @@
 			<key>Name</key>
 			<string>:bread:</string>
 		</dict>
-		<key>briefcase.png</key>
+		<key>bride_with_veil</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bride_with_veil:</string>
+			</array>
+			<key>Name</key>
+			<string>:bride_with_veil:</string>
+		</dict>
+		<key>bridge_at_night</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bridge_at_night:</string>
+			</array>
+			<key>Name</key>
+			<string>:bridge_at_night:</string>
+		</dict>
+		<key>briefcase</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -654,7 +1068,7 @@
 			<key>Name</key>
 			<string>:briefcase:</string>
 		</dict>
-		<key>broken_heart.png</key>
+		<key>broken_heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -663,7 +1077,7 @@
 			<key>Name</key>
 			<string>:broken_heart:</string>
 		</dict>
-		<key>bug.png</key>
+		<key>bug</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -672,7 +1086,7 @@
 			<key>Name</key>
 			<string>:bug:</string>
 		</dict>
-		<key>bulb.png</key>
+		<key>bulb</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -681,7 +1095,7 @@
 			<key>Name</key>
 			<string>:bulb:</string>
 		</dict>
-		<key>bullettrain_front.png</key>
+		<key>bullettrain_front</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -690,7 +1104,7 @@
 			<key>Name</key>
 			<string>:bullettrain_front:</string>
 		</dict>
-		<key>bullettrain_side.png</key>
+		<key>bullettrain_side</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -699,7 +1113,7 @@
 			<key>Name</key>
 			<string>:bullettrain_side:</string>
 		</dict>
-		<key>bus.png</key>
+		<key>bus</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -708,7 +1122,7 @@
 			<key>Name</key>
 			<string>:bus:</string>
 		</dict>
-		<key>busstop.png</key>
+		<key>busstop</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -717,7 +1131,25 @@
 			<key>Name</key>
 			<string>:busstop:</string>
 		</dict>
-		<key>cactus.png</key>
+		<key>bust_in_silhouette</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:bust_in_silhouette:</string>
+			</array>
+			<key>Name</key>
+			<string>:bust_in_silhouette:</string>
+		</dict>
+		<key>busts_in_silhouette</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:busts_in_silhouette:</string>
+			</array>
+			<key>Name</key>
+			<string>:busts_in_silhouette:</string>
+		</dict>
+		<key>cactus</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -726,7 +1158,7 @@
 			<key>Name</key>
 			<string>:cactus:</string>
 		</dict>
-		<key>cake.png</key>
+		<key>cake</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -735,7 +1167,16 @@
 			<key>Name</key>
 			<string>:cake:</string>
 		</dict>
-		<key>calling.png</key>
+		<key>calendar</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:calendar:</string>
+			</array>
+			<key>Name</key>
+			<string>:calendar:</string>
+		</dict>
+		<key>calling</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -744,7 +1185,7 @@
 			<key>Name</key>
 			<string>:calling:</string>
 		</dict>
-		<key>camel.png</key>
+		<key>camel</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -753,7 +1194,7 @@
 			<key>Name</key>
 			<string>:camel:</string>
 		</dict>
-		<key>camera.png</key>
+		<key>camera</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -762,7 +1203,7 @@
 			<key>Name</key>
 			<string>:camera:</string>
 		</dict>
-		<key>cancer.png</key>
+		<key>cancer</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -771,7 +1212,25 @@
 			<key>Name</key>
 			<string>:cancer:</string>
 		</dict>
-		<key>capricorn.png</key>
+		<key>candy</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:candy:</string>
+			</array>
+			<key>Name</key>
+			<string>:candy:</string>
+		</dict>
+		<key>capital_abcd</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:capital_abcd:</string>
+			</array>
+			<key>Name</key>
+			<string>:capital_abcd:</string>
+		</dict>
+		<key>capricorn</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -780,7 +1239,7 @@
 			<key>Name</key>
 			<string>:capricorn:</string>
 		</dict>
-		<key>car.png</key>
+		<key>car</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -789,7 +1248,25 @@
 			<key>Name</key>
 			<string>:car:</string>
 		</dict>
-		<key>cat.png</key>
+		<key>card_index</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:card_index:</string>
+			</array>
+			<key>Name</key>
+			<string>:card_index:</string>
+		</dict>
+		<key>carousel_horse</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:carousel_horse:</string>
+			</array>
+			<key>Name</key>
+			<string>:carousel_horse:</string>
+		</dict>
+		<key>cat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -798,7 +1275,16 @@
 			<key>Name</key>
 			<string>:cat:</string>
 		</dict>
-		<key>cd.png</key>
+		<key>cat2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:cat2:</string>
+			</array>
+			<key>Name</key>
+			<string>:cat2:</string>
+		</dict>
+		<key>cd</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -807,7 +1293,7 @@
 			<key>Name</key>
 			<string>:cd:</string>
 		</dict>
-		<key>chart.png</key>
+		<key>chart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -816,7 +1302,25 @@
 			<key>Name</key>
 			<string>:chart:</string>
 		</dict>
-		<key>checkered_flag.png</key>
+		<key>chart_with_downwards_trend</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:chart_with_downwards_trend:</string>
+			</array>
+			<key>Name</key>
+			<string>:chart_with_downwards_trend:</string>
+		</dict>
+		<key>chart_with_upwards_trend</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:chart_with_upwards_trend:</string>
+			</array>
+			<key>Name</key>
+			<string>:chart_with_upwards_trend:</string>
+		</dict>
+		<key>checkered_flag</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -825,7 +1329,16 @@
 			<key>Name</key>
 			<string>:checkered_flag:</string>
 		</dict>
-		<key>cherry_blossom.png</key>
+		<key>cherries</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:cherries:</string>
+			</array>
+			<key>Name</key>
+			<string>:cherries:</string>
+		</dict>
+		<key>cherry_blossom</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -834,7 +1347,16 @@
 			<key>Name</key>
 			<string>:cherry_blossom:</string>
 		</dict>
-		<key>chicken.png</key>
+		<key>chestnut</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:chestnut:</string>
+			</array>
+			<key>Name</key>
+			<string>:chestnut:</string>
+		</dict>
+		<key>chicken</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -843,7 +1365,25 @@
 			<key>Name</key>
 			<string>:chicken:</string>
 		</dict>
-		<key>christmas_tree.png</key>
+		<key>children_crossing</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:children_crossing:</string>
+			</array>
+			<key>Name</key>
+			<string>:children_crossing:</string>
+		</dict>
+		<key>chocolate_bar</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:chocolate_bar:</string>
+			</array>
+			<key>Name</key>
+			<string>:chocolate_bar:</string>
+		</dict>
+		<key>christmas_tree</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -852,7 +1392,7 @@
 			<key>Name</key>
 			<string>:christmas_tree:</string>
 		</dict>
-		<key>church.png</key>
+		<key>church</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -861,7 +1401,7 @@
 			<key>Name</key>
 			<string>:church:</string>
 		</dict>
-		<key>cinema.png</key>
+		<key>cinema</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -870,7 +1410,16 @@
 			<key>Name</key>
 			<string>:cinema:</string>
 		</dict>
-		<key>city_sunrise.png</key>
+		<key>circus_tent</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:circus_tent:</string>
+			</array>
+			<key>Name</key>
+			<string>:circus_tent:</string>
+		</dict>
+		<key>city_sunrise</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -879,7 +1428,7 @@
 			<key>Name</key>
 			<string>:city_sunrise:</string>
 		</dict>
-		<key>city_sunset.png</key>
+		<key>city_sunset</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -888,7 +1437,16 @@
 			<key>Name</key>
 			<string>:city_sunset:</string>
 		</dict>
-		<key>clap.png</key>
+		<key>cl</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:cl:</string>
+			</array>
+			<key>Name</key>
+			<string>:cl:</string>
+		</dict>
+		<key>clap</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -897,7 +1455,7 @@
 			<key>Name</key>
 			<string>:clap:</string>
 		</dict>
-		<key>clapper.png</key>
+		<key>clapper</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -906,7 +1464,16 @@
 			<key>Name</key>
 			<string>:clapper:</string>
 		</dict>
-		<key>clock1.png</key>
+		<key>clipboard</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clipboard:</string>
+			</array>
+			<key>Name</key>
+			<string>:clipboard:</string>
+		</dict>
+		<key>clock1</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -915,7 +1482,7 @@
 			<key>Name</key>
 			<string>:clock1:</string>
 		</dict>
-		<key>clock10.png</key>
+		<key>clock10</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -924,7 +1491,16 @@
 			<key>Name</key>
 			<string>:clock10:</string>
 		</dict>
-		<key>clock11.png</key>
+		<key>clock1030</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock1030:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock1030:</string>
+		</dict>
+		<key>clock11</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -933,7 +1509,16 @@
 			<key>Name</key>
 			<string>:clock11:</string>
 		</dict>
-		<key>clock12.png</key>
+		<key>clock1130</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock1130:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock1130:</string>
+		</dict>
+		<key>clock12</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -942,7 +1527,25 @@
 			<key>Name</key>
 			<string>:clock12:</string>
 		</dict>
-		<key>clock2.png</key>
+		<key>clock1230</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock1230:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock1230:</string>
+		</dict>
+		<key>clock130</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock130:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock130:</string>
+		</dict>
+		<key>clock2</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -951,7 +1554,16 @@
 			<key>Name</key>
 			<string>:clock2:</string>
 		</dict>
-		<key>clock3.png</key>
+		<key>clock230</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock230:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock230:</string>
+		</dict>
+		<key>clock3</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -960,7 +1572,16 @@
 			<key>Name</key>
 			<string>:clock3:</string>
 		</dict>
-		<key>clock4.png</key>
+		<key>clock330</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock330:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock330:</string>
+		</dict>
+		<key>clock4</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -969,7 +1590,16 @@
 			<key>Name</key>
 			<string>:clock4:</string>
 		</dict>
-		<key>clock5.png</key>
+		<key>clock430</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock430:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock430:</string>
+		</dict>
+		<key>clock5</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -978,7 +1608,16 @@
 			<key>Name</key>
 			<string>:clock5:</string>
 		</dict>
-		<key>clock6.png</key>
+		<key>clock530</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock530:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock530:</string>
+		</dict>
+		<key>clock6</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -987,7 +1626,16 @@
 			<key>Name</key>
 			<string>:clock6:</string>
 		</dict>
-		<key>clock7.png</key>
+		<key>clock630</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock630:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock630:</string>
+		</dict>
+		<key>clock7</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -996,7 +1644,16 @@
 			<key>Name</key>
 			<string>:clock7:</string>
 		</dict>
-		<key>clock8.png</key>
+		<key>clock730</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock730:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock730:</string>
+		</dict>
+		<key>clock8</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1005,7 +1662,16 @@
 			<key>Name</key>
 			<string>:clock8:</string>
 		</dict>
-		<key>clock9.png</key>
+		<key>clock830</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock830:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock830:</string>
+		</dict>
+		<key>clock9</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1014,7 +1680,34 @@
 			<key>Name</key>
 			<string>:clock9:</string>
 		</dict>
-		<key>closed_umbrella.png</key>
+		<key>clock930</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:clock930:</string>
+			</array>
+			<key>Name</key>
+			<string>:clock930:</string>
+		</dict>
+		<key>closed_book</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:closed_book:</string>
+			</array>
+			<key>Name</key>
+			<string>:closed_book:</string>
+		</dict>
+		<key>closed_lock_with_key</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:closed_lock_with_key:</string>
+			</array>
+			<key>Name</key>
+			<string>:closed_lock_with_key:</string>
+		</dict>
+		<key>closed_umbrella</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1023,7 +1716,7 @@
 			<key>Name</key>
 			<string>:closed_umbrella:</string>
 		</dict>
-		<key>cloud.png</key>
+		<key>cloud</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1032,7 +1725,7 @@
 			<key>Name</key>
 			<string>:cloud:</string>
 		</dict>
-		<key>clubs.png</key>
+		<key>clubs</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1041,7 +1734,7 @@
 			<key>Name</key>
 			<string>:clubs:</string>
 		</dict>
-		<key>cn.png</key>
+		<key>cn</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1050,7 +1743,7 @@
 			<key>Name</key>
 			<string>:cn:</string>
 		</dict>
-		<key>cocktail.png</key>
+		<key>cocktail</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1059,7 +1752,7 @@
 			<key>Name</key>
 			<string>:cocktail:</string>
 		</dict>
-		<key>coffee.png</key>
+		<key>coffee</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1068,7 +1761,7 @@
 			<key>Name</key>
 			<string>:coffee:</string>
 		</dict>
-		<key>cold_sweat.png</key>
+		<key>cold_sweat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1077,7 +1770,16 @@
 			<key>Name</key>
 			<string>:cold_sweat:</string>
 		</dict>
-		<key>computer.png</key>
+		<key>collision</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:collision:</string>
+			</array>
+			<key>Name</key>
+			<string>:collision:</string>
+		</dict>
+		<key>computer</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1086,7 +1788,16 @@
 			<key>Name</key>
 			<string>:computer:</string>
 		</dict>
-		<key>confounded.png</key>
+		<key>confetti_ball</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:confetti_ball:</string>
+			</array>
+			<key>Name</key>
+			<string>:confetti_ball:</string>
+		</dict>
+		<key>confounded</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1095,7 +1806,16 @@
 			<key>Name</key>
 			<string>:confounded:</string>
 		</dict>
-		<key>congratulations.png</key>
+		<key>confused</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:confused:</string>
+			</array>
+			<key>Name</key>
+			<string>:confused:</string>
+		</dict>
+		<key>congratulations</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1104,7 +1824,7 @@
 			<key>Name</key>
 			<string>:congratulations:</string>
 		</dict>
-		<key>construction.png</key>
+		<key>construction</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1113,7 +1833,7 @@
 			<key>Name</key>
 			<string>:construction:</string>
 		</dict>
-		<key>construction_worker.png</key>
+		<key>construction_worker</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1122,7 +1842,7 @@
 			<key>Name</key>
 			<string>:construction_worker:</string>
 		</dict>
-		<key>convenience_store.png</key>
+		<key>convenience_store</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1131,7 +1851,16 @@
 			<key>Name</key>
 			<string>:convenience_store:</string>
 		</dict>
-		<key>cool.png</key>
+		<key>cookie</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:cookie:</string>
+			</array>
+			<key>Name</key>
+			<string>:cookie:</string>
+		</dict>
+		<key>cool</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1140,7 +1869,7 @@
 			<key>Name</key>
 			<string>:cool:</string>
 		</dict>
-		<key>cop.png</key>
+		<key>cop</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1149,7 +1878,7 @@
 			<key>Name</key>
 			<string>:cop:</string>
 		</dict>
-		<key>copyright.png</key>
+		<key>copyright</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1158,7 +1887,16 @@
 			<key>Name</key>
 			<string>:copyright:</string>
 		</dict>
-		<key>couple.png</key>
+		<key>corn</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:corn:</string>
+			</array>
+			<key>Name</key>
+			<string>:corn:</string>
+		</dict>
+		<key>couple</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1167,7 +1905,7 @@
 			<key>Name</key>
 			<string>:couple:</string>
 		</dict>
-		<key>couple_with_heart.png</key>
+		<key>couple_with_heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1176,7 +1914,7 @@
 			<key>Name</key>
 			<string>:couple_with_heart:</string>
 		</dict>
-		<key>couplekiss.png</key>
+		<key>couplekiss</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1185,7 +1923,7 @@
 			<key>Name</key>
 			<string>:couplekiss:</string>
 		</dict>
-		<key>cow.png</key>
+		<key>cow</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1194,7 +1932,34 @@
 			<key>Name</key>
 			<string>:cow:</string>
 		</dict>
-		<key>crossed_flags.png</key>
+		<key>cow2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:cow2:</string>
+			</array>
+			<key>Name</key>
+			<string>:cow2:</string>
+		</dict>
+		<key>credit_card</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:credit_card:</string>
+			</array>
+			<key>Name</key>
+			<string>:credit_card:</string>
+		</dict>
+		<key>crocodile</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:crocodile:</string>
+			</array>
+			<key>Name</key>
+			<string>:crocodile:</string>
+		</dict>
+		<key>crossed_flags</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1203,7 +1968,7 @@
 			<key>Name</key>
 			<string>:crossed_flags:</string>
 		</dict>
-		<key>crown.png</key>
+		<key>crown</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1212,7 +1977,7 @@
 			<key>Name</key>
 			<string>:crown:</string>
 		</dict>
-		<key>cry.png</key>
+		<key>cry</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1221,7 +1986,25 @@
 			<key>Name</key>
 			<string>:cry:</string>
 		</dict>
-		<key>cupid.png</key>
+		<key>crying_cat_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:crying_cat_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:crying_cat_face:</string>
+		</dict>
+		<key>crystal_ball</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:crystal_ball:</string>
+			</array>
+			<key>Name</key>
+			<string>:crystal_ball:</string>
+		</dict>
+		<key>cupid</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1230,7 +2013,16 @@
 			<key>Name</key>
 			<string>:cupid:</string>
 		</dict>
-		<key>currency_exchange.png</key>
+		<key>curly_loop</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:curly_loop:</string>
+			</array>
+			<key>Name</key>
+			<string>:curly_loop:</string>
+		</dict>
+		<key>currency_exchange</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1239,7 +2031,7 @@
 			<key>Name</key>
 			<string>:currency_exchange:</string>
 		</dict>
-		<key>curry.png</key>
+		<key>curry</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1248,7 +2040,25 @@
 			<key>Name</key>
 			<string>:curry:</string>
 		</dict>
-		<key>cyclone.png</key>
+		<key>custard</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:custard:</string>
+			</array>
+			<key>Name</key>
+			<string>:custard:</string>
+		</dict>
+		<key>customs</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:customs:</string>
+			</array>
+			<key>Name</key>
+			<string>:customs:</string>
+		</dict>
+		<key>cyclone</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1257,7 +2067,7 @@
 			<key>Name</key>
 			<string>:cyclone:</string>
 		</dict>
-		<key>dancer.png</key>
+		<key>dancer</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1266,7 +2076,7 @@
 			<key>Name</key>
 			<string>:dancer:</string>
 		</dict>
-		<key>dancers.png</key>
+		<key>dancers</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1275,7 +2085,7 @@
 			<key>Name</key>
 			<string>:dancers:</string>
 		</dict>
-		<key>dango.png</key>
+		<key>dango</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1284,7 +2094,7 @@
 			<key>Name</key>
 			<string>:dango:</string>
 		</dict>
-		<key>dart.png</key>
+		<key>dart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1293,7 +2103,7 @@
 			<key>Name</key>
 			<string>:dart:</string>
 		</dict>
-		<key>dash.png</key>
+		<key>dash</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1302,7 +2112,16 @@
 			<key>Name</key>
 			<string>:dash:</string>
 		</dict>
-		<key>de.png</key>
+		<key>date</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:date:</string>
+			</array>
+			<key>Name</key>
+			<string>:date:</string>
+		</dict>
+		<key>de</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1311,7 +2130,16 @@
 			<key>Name</key>
 			<string>:de:</string>
 		</dict>
-		<key>department_store.png</key>
+		<key>deciduous_tree</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:deciduous_tree:</string>
+			</array>
+			<key>Name</key>
+			<string>:deciduous_tree:</string>
+		</dict>
+		<key>department_store</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1320,7 +2148,16 @@
 			<key>Name</key>
 			<string>:department_store:</string>
 		</dict>
-		<key>diamonds.png</key>
+		<key>diamond_shape_with_a_dot_inside</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:diamond_shape_with_a_dot_inside:</string>
+			</array>
+			<key>Name</key>
+			<string>:diamond_shape_with_a_dot_inside:</string>
+		</dict>
+		<key>diamonds</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1329,7 +2166,7 @@
 			<key>Name</key>
 			<string>:diamonds:</string>
 		</dict>
-		<key>disappointed.png</key>
+		<key>disappointed</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1338,7 +2175,43 @@
 			<key>Name</key>
 			<string>:disappointed:</string>
 		</dict>
-		<key>dog.png</key>
+		<key>disappointed_relieved</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:disappointed_relieved:</string>
+			</array>
+			<key>Name</key>
+			<string>:disappointed_relieved:</string>
+		</dict>
+		<key>dizzy</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:dizzy:</string>
+			</array>
+			<key>Name</key>
+			<string>:dizzy:</string>
+		</dict>
+		<key>dizzy_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:dizzy_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:dizzy_face:</string>
+		</dict>
+		<key>do_not_litter</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:do_not_litter:</string>
+			</array>
+			<key>Name</key>
+			<string>:do_not_litter:</string>
+		</dict>
+		<key>dog</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1347,7 +2220,25 @@
 			<key>Name</key>
 			<string>:dog:</string>
 		</dict>
-		<key>dolls.png</key>
+		<key>dog2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:dog2:</string>
+			</array>
+			<key>Name</key>
+			<string>:dog2:</string>
+		</dict>
+		<key>dollar</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:dollar:</string>
+			</array>
+			<key>Name</key>
+			<string>:dollar:</string>
+		</dict>
+		<key>dolls</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1356,7 +2247,7 @@
 			<key>Name</key>
 			<string>:dolls:</string>
 		</dict>
-		<key>dolphin.png</key>
+		<key>dolphin</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1365,7 +2256,52 @@
 			<key>Name</key>
 			<string>:dolphin:</string>
 		</dict>
-		<key>dress.png</key>
+		<key>donut</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:donut:</string>
+			</array>
+			<key>Name</key>
+			<string>:donut:</string>
+		</dict>
+		<key>door</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:door:</string>
+			</array>
+			<key>Name</key>
+			<string>:door:</string>
+		</dict>
+		<key>doughnut</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:doughnut:</string>
+			</array>
+			<key>Name</key>
+			<string>:doughnut:</string>
+		</dict>
+		<key>dragon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:dragon:</string>
+			</array>
+			<key>Name</key>
+			<string>:dragon:</string>
+		</dict>
+		<key>dragon_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:dragon_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:dragon_face:</string>
+		</dict>
+		<key>dress</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1374,7 +2310,25 @@
 			<key>Name</key>
 			<string>:dress:</string>
 		</dict>
-		<key>dvd.png</key>
+		<key>dromedary_camel</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:dromedary_camel:</string>
+			</array>
+			<key>Name</key>
+			<string>:dromedary_camel:</string>
+		</dict>
+		<key>droplet</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:droplet:</string>
+			</array>
+			<key>Name</key>
+			<string>:droplet:</string>
+		</dict>
+		<key>dvd</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1383,7 +2337,16 @@
 			<key>Name</key>
 			<string>:dvd:</string>
 		</dict>
-		<key>ear.png</key>
+		<key>e-mail</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:e-mail:</string>
+			</array>
+			<key>Name</key>
+			<string>:e-mail:</string>
+		</dict>
+		<key>ear</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1392,7 +2355,7 @@
 			<key>Name</key>
 			<string>:ear:</string>
 		</dict>
-		<key>ear_of_rice.png</key>
+		<key>ear_of_rice</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1401,7 +2364,34 @@
 			<key>Name</key>
 			<string>:ear_of_rice:</string>
 		</dict>
-		<key>egg.png</key>
+		<key>earth_africa</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:earth_africa:</string>
+			</array>
+			<key>Name</key>
+			<string>:earth_africa:</string>
+		</dict>
+		<key>earth_americas</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:earth_americas:</string>
+			</array>
+			<key>Name</key>
+			<string>:earth_americas:</string>
+		</dict>
+		<key>earth_asia</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:earth_asia:</string>
+			</array>
+			<key>Name</key>
+			<string>:earth_asia:</string>
+		</dict>
+		<key>egg</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1410,7 +2400,7 @@
 			<key>Name</key>
 			<string>:egg:</string>
 		</dict>
-		<key>eggplant.png</key>
+		<key>eggplant</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1419,7 +2409,7 @@
 			<key>Name</key>
 			<string>:eggplant:</string>
 		</dict>
-		<key>egplant.png</key>
+		<key>egplant</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1428,7 +2418,16 @@
 			<key>Name</key>
 			<string>:egplant:</string>
 		</dict>
-		<key>eight_pointed_black_star.png</key>
+		<key>eight</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:eight:</string>
+			</array>
+			<key>Name</key>
+			<string>:eight:</string>
+		</dict>
+		<key>eight_pointed_black_star</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1437,7 +2436,7 @@
 			<key>Name</key>
 			<string>:eight_pointed_black_star:</string>
 		</dict>
-		<key>eight_spoked_asterisk.png</key>
+		<key>eight_spoked_asterisk</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1446,7 +2445,16 @@
 			<key>Name</key>
 			<string>:eight_spoked_asterisk:</string>
 		</dict>
-		<key>elephant.png</key>
+		<key>electric_plug</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:electric_plug:</string>
+			</array>
+			<key>Name</key>
+			<string>:electric_plug:</string>
+		</dict>
+		<key>elephant</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1455,7 +2463,7 @@
 			<key>Name</key>
 			<string>:elephant:</string>
 		</dict>
-		<key>email.png</key>
+		<key>email</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1464,7 +2472,25 @@
 			<key>Name</key>
 			<string>:email:</string>
 		</dict>
-		<key>es.png</key>
+		<key>end</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:end:</string>
+			</array>
+			<key>Name</key>
+			<string>:end:</string>
+		</dict>
+		<key>envelope</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:envelope:</string>
+			</array>
+			<key>Name</key>
+			<string>:envelope:</string>
+		</dict>
+		<key>es</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1473,7 +2499,16 @@
 			<key>Name</key>
 			<string>:es:</string>
 		</dict>
-		<key>european_castle.png</key>
+		<key>euro</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:euro:</string>
+			</array>
+			<key>Name</key>
+			<string>:euro:</string>
+		</dict>
+		<key>european_castle</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1482,7 +2517,25 @@
 			<key>Name</key>
 			<string>:european_castle:</string>
 		</dict>
-		<key>exclamation.png</key>
+		<key>european_post_office</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:european_post_office:</string>
+			</array>
+			<key>Name</key>
+			<string>:european_post_office:</string>
+		</dict>
+		<key>evergreen_tree</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:evergreen_tree:</string>
+			</array>
+			<key>Name</key>
+			<string>:evergreen_tree:</string>
+		</dict>
+		<key>exclamation</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1491,7 +2544,25 @@
 			<key>Name</key>
 			<string>:exclamation:</string>
 		</dict>
-		<key>eyes.png</key>
+		<key>expressionless</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:expressionless:</string>
+			</array>
+			<key>Name</key>
+			<string>:expressionless:</string>
+		</dict>
+		<key>eyeglasses</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:eyeglasses:</string>
+			</array>
+			<key>Name</key>
+			<string>:eyeglasses:</string>
+		</dict>
+		<key>eyes</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1500,7 +2571,16 @@
 			<key>Name</key>
 			<string>:eyes:</string>
 		</dict>
-		<key>factory.png</key>
+		<key>facepunch</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:facepunch:</string>
+			</array>
+			<key>Name</key>
+			<string>:facepunch:</string>
+		</dict>
+		<key>factory</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1509,7 +2589,7 @@
 			<key>Name</key>
 			<string>:factory:</string>
 		</dict>
-		<key>fallen_leaf.png</key>
+		<key>fallen_leaf</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1518,7 +2598,16 @@
 			<key>Name</key>
 			<string>:fallen_leaf:</string>
 		</dict>
-		<key>fast_forward.png</key>
+		<key>family</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:family:</string>
+			</array>
+			<key>Name</key>
+			<string>:family:</string>
+		</dict>
+		<key>fast_forward</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1527,7 +2616,7 @@
 			<key>Name</key>
 			<string>:fast_forward:</string>
 		</dict>
-		<key>fax.png</key>
+		<key>fax</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1536,7 +2625,7 @@
 			<key>Name</key>
 			<string>:fax:</string>
 		</dict>
-		<key>fearful.png</key>
+		<key>fearful</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1545,7 +2634,7 @@
 			<key>Name</key>
 			<string>:fearful:</string>
 		</dict>
-		<key>feelsgood.png</key>
+		<key>feelsgood</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1554,7 +2643,7 @@
 			<key>Name</key>
 			<string>:feelsgood:</string>
 		</dict>
-		<key>feet.png</key>
+		<key>feet</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1563,7 +2652,7 @@
 			<key>Name</key>
 			<string>:feet:</string>
 		</dict>
-		<key>ferris_wheel.png</key>
+		<key>ferris_wheel</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1572,7 +2661,16 @@
 			<key>Name</key>
 			<string>:ferris_wheel:</string>
 		</dict>
-		<key>finnadie.png</key>
+		<key>file_folder</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:file_folder:</string>
+			</array>
+			<key>Name</key>
+			<string>:file_folder:</string>
+		</dict>
+		<key>finnadie</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1581,7 +2679,7 @@
 			<key>Name</key>
 			<string>:finnadie:</string>
 		</dict>
-		<key>fire.png</key>
+		<key>fire</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1590,7 +2688,7 @@
 			<key>Name</key>
 			<string>:fire:</string>
 		</dict>
-		<key>fire_engine.png</key>
+		<key>fire_engine</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1599,7 +2697,7 @@
 			<key>Name</key>
 			<string>:fire_engine:</string>
 		</dict>
-		<key>fireworks.png</key>
+		<key>fireworks</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1608,7 +2706,25 @@
 			<key>Name</key>
 			<string>:fireworks:</string>
 		</dict>
-		<key>fish.png</key>
+		<key>first_quarter_moon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:first_quarter_moon:</string>
+			</array>
+			<key>Name</key>
+			<string>:first_quarter_moon:</string>
+		</dict>
+		<key>first_quarter_moon_with_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:first_quarter_moon_with_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:first_quarter_moon_with_face:</string>
+		</dict>
+		<key>fish</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1617,7 +2733,25 @@
 			<key>Name</key>
 			<string>:fish:</string>
 		</dict>
-		<key>fist.png</key>
+		<key>fish_cake</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:fish_cake:</string>
+			</array>
+			<key>Name</key>
+			<string>:fish_cake:</string>
+		</dict>
+		<key>fishing_pole_and_fish</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:fishing_pole_and_fish:</string>
+			</array>
+			<key>Name</key>
+			<string>:fishing_pole_and_fish:</string>
+		</dict>
+		<key>fist</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1626,7 +2760,16 @@
 			<key>Name</key>
 			<string>:fist:</string>
 		</dict>
-		<key>flags.png</key>
+		<key>five</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:five:</string>
+			</array>
+			<key>Name</key>
+			<string>:five:</string>
+		</dict>
+		<key>flags</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1635,7 +2778,34 @@
 			<key>Name</key>
 			<string>:flags:</string>
 		</dict>
-		<key>flushed.png</key>
+		<key>flashlight</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:flashlight:</string>
+			</array>
+			<key>Name</key>
+			<string>:flashlight:</string>
+		</dict>
+		<key>floppy_disk</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:floppy_disk:</string>
+			</array>
+			<key>Name</key>
+			<string>:floppy_disk:</string>
+		</dict>
+		<key>flower_playing_cards</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:flower_playing_cards:</string>
+			</array>
+			<key>Name</key>
+			<string>:flower_playing_cards:</string>
+		</dict>
+		<key>flushed</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1644,7 +2814,16 @@
 			<key>Name</key>
 			<string>:flushed:</string>
 		</dict>
-		<key>football.png</key>
+		<key>foggy</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:foggy:</string>
+			</array>
+			<key>Name</key>
+			<string>:foggy:</string>
+		</dict>
+		<key>football</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1653,7 +2832,7 @@
 			<key>Name</key>
 			<string>:football:</string>
 		</dict>
-		<key>fork_and_knife.png</key>
+		<key>fork_and_knife</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1662,7 +2841,7 @@
 			<key>Name</key>
 			<string>:fork_and_knife:</string>
 		</dict>
-		<key>fountain.png</key>
+		<key>fountain</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1671,7 +2850,16 @@
 			<key>Name</key>
 			<string>:fountain:</string>
 		</dict>
-		<key>four_leaf_clover.png</key>
+		<key>four</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:four:</string>
+			</array>
+			<key>Name</key>
+			<string>:four:</string>
+		</dict>
+		<key>four_leaf_clover</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1680,7 +2868,7 @@
 			<key>Name</key>
 			<string>:four_leaf_clover:</string>
 		</dict>
-		<key>fr.png</key>
+		<key>fr</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1689,7 +2877,25 @@
 			<key>Name</key>
 			<string>:fr:</string>
 		</dict>
-		<key>fries.png</key>
+		<key>free</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:free:</string>
+			</array>
+			<key>Name</key>
+			<string>:free:</string>
+		</dict>
+		<key>fried_shrimp</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:fried_shrimp:</string>
+			</array>
+			<key>Name</key>
+			<string>:fried_shrimp:</string>
+		</dict>
+		<key>fries</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1698,7 +2904,7 @@
 			<key>Name</key>
 			<string>:fries:</string>
 		</dict>
-		<key>frog.png</key>
+		<key>frog</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1707,7 +2913,25 @@
 			<key>Name</key>
 			<string>:frog:</string>
 		</dict>
-		<key>fuelpump.png</key>
+		<key>frowning</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:frowning:</string>
+			</array>
+			<key>Name</key>
+			<string>:frowning:</string>
+		</dict>
+		<key>fu</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:fu:</string>
+			</array>
+			<key>Name</key>
+			<string>:fu:</string>
+		</dict>
+		<key>fuelpump</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1716,7 +2940,34 @@
 			<key>Name</key>
 			<string>:fuelpump:</string>
 		</dict>
-		<key>gb.png</key>
+		<key>full_moon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:full_moon:</string>
+			</array>
+			<key>Name</key>
+			<string>:full_moon:</string>
+		</dict>
+		<key>full_moon_with_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:full_moon_with_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:full_moon_with_face:</string>
+		</dict>
+		<key>game_die</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:game_die:</string>
+			</array>
+			<key>Name</key>
+			<string>:game_die:</string>
+		</dict>
+		<key>gb</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1725,7 +2976,7 @@
 			<key>Name</key>
 			<string>:gb:</string>
 		</dict>
-		<key>gem.png</key>
+		<key>gem</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1734,7 +2985,7 @@
 			<key>Name</key>
 			<string>:gem:</string>
 		</dict>
-		<key>gemini.png</key>
+		<key>gemini</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1743,7 +2994,7 @@
 			<key>Name</key>
 			<string>:gemini:</string>
 		</dict>
-		<key>ghost.png</key>
+		<key>ghost</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1752,7 +3003,7 @@
 			<key>Name</key>
 			<string>:ghost:</string>
 		</dict>
-		<key>gift.png</key>
+		<key>gift</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1761,7 +3012,7 @@
 			<key>Name</key>
 			<string>:gift:</string>
 		</dict>
-		<key>gift_heart.png</key>
+		<key>gift_heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1770,7 +3021,7 @@
 			<key>Name</key>
 			<string>:gift_heart:</string>
 		</dict>
-		<key>girl.png</key>
+		<key>girl</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1779,7 +3030,25 @@
 			<key>Name</key>
 			<string>:girl:</string>
 		</dict>
-		<key>goberserk.png</key>
+		<key>globe_with_meridians</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:globe_with_meridians:</string>
+			</array>
+			<key>Name</key>
+			<string>:globe_with_meridians:</string>
+		</dict>
+		<key>goat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:goat:</string>
+			</array>
+			<key>Name</key>
+			<string>:goat:</string>
+		</dict>
+		<key>goberserk</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1788,7 +3057,7 @@
 			<key>Name</key>
 			<string>:goberserk:</string>
 		</dict>
-		<key>godmode.png</key>
+		<key>godmode</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1797,7 +3066,7 @@
 			<key>Name</key>
 			<string>:godmode:</string>
 		</dict>
-		<key>golf.png</key>
+		<key>golf</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1806,7 +3075,34 @@
 			<key>Name</key>
 			<string>:golf:</string>
 		</dict>
-		<key>green_heart.png</key>
+		<key>grapes</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:grapes:</string>
+			</array>
+			<key>Name</key>
+			<string>:grapes:</string>
+		</dict>
+		<key>green_apple</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:green_apple:</string>
+			</array>
+			<key>Name</key>
+			<string>:green_apple:</string>
+		</dict>
+		<key>green_book</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:green_book:</string>
+			</array>
+			<key>Name</key>
+			<string>:green_book:</string>
+		</dict>
+		<key>green_heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1815,7 +3111,7 @@
 			<key>Name</key>
 			<string>:green_heart:</string>
 		</dict>
-		<key>grey_exclamation.png</key>
+		<key>grey_exclamation</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1824,7 +3120,7 @@
 			<key>Name</key>
 			<string>:grey_exclamation:</string>
 		</dict>
-		<key>grey_question.png</key>
+		<key>grey_question</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1833,7 +3129,16 @@
 			<key>Name</key>
 			<string>:grey_question:</string>
 		</dict>
-		<key>grin.png</key>
+		<key>grimacing</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:grimacing:</string>
+			</array>
+			<key>Name</key>
+			<string>:grimacing:</string>
+		</dict>
+		<key>grin</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1842,7 +3147,16 @@
 			<key>Name</key>
 			<string>:grin:</string>
 		</dict>
-		<key>guardsman.png</key>
+		<key>grinning</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:grinning:</string>
+			</array>
+			<key>Name</key>
+			<string>:grinning:</string>
+		</dict>
+		<key>guardsman</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1851,7 +3165,7 @@
 			<key>Name</key>
 			<string>:guardsman:</string>
 		</dict>
-		<key>guitar.png</key>
+		<key>guitar</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1860,7 +3174,7 @@
 			<key>Name</key>
 			<string>:guitar:</string>
 		</dict>
-		<key>gun.png</key>
+		<key>gun</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1869,7 +3183,7 @@
 			<key>Name</key>
 			<string>:gun:</string>
 		</dict>
-		<key>haircut.png</key>
+		<key>haircut</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1878,7 +3192,7 @@
 			<key>Name</key>
 			<string>:haircut:</string>
 		</dict>
-		<key>hamburger.png</key>
+		<key>hamburger</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1887,7 +3201,7 @@
 			<key>Name</key>
 			<string>:hamburger:</string>
 		</dict>
-		<key>hammer.png</key>
+		<key>hammer</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1896,7 +3210,7 @@
 			<key>Name</key>
 			<string>:hammer:</string>
 		</dict>
-		<key>hamster.png</key>
+		<key>hamster</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1905,7 +3219,7 @@
 			<key>Name</key>
 			<string>:hamster:</string>
 		</dict>
-		<key>hand.png</key>
+		<key>hand</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1914,7 +3228,7 @@
 			<key>Name</key>
 			<string>:hand:</string>
 		</dict>
-		<key>handbag.png</key>
+		<key>handbag</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1923,7 +3237,7 @@
 			<key>Name</key>
 			<string>:handbag:</string>
 		</dict>
-		<key>hankey.png</key>
+		<key>hankey</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1932,7 +3246,7 @@
 			<key>Name</key>
 			<string>:hankey:</string>
 		</dict>
-		<key>hash.png</key>
+		<key>hash</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1941,7 +3255,25 @@
 			<key>Name</key>
 			<string>:hash:</string>
 		</dict>
-		<key>headphones.png</key>
+		<key>hatched_chick</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:hatched_chick:</string>
+			</array>
+			<key>Name</key>
+			<string>:hatched_chick:</string>
+		</dict>
+		<key>hatching_chick</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:hatching_chick:</string>
+			</array>
+			<key>Name</key>
+			<string>:hatching_chick:</string>
+		</dict>
+		<key>headphones</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1950,7 +3282,16 @@
 			<key>Name</key>
 			<string>:headphones:</string>
 		</dict>
-		<key>heart.png</key>
+		<key>hear_no_evil</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:hear_no_evil:</string>
+			</array>
+			<key>Name</key>
+			<string>:hear_no_evil:</string>
+		</dict>
+		<key>heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1959,7 +3300,7 @@
 			<key>Name</key>
 			<string>:heart:</string>
 		</dict>
-		<key>heart_decoration.png</key>
+		<key>heart_decoration</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1968,7 +3309,7 @@
 			<key>Name</key>
 			<string>:heart_decoration:</string>
 		</dict>
-		<key>heart_eyes.png</key>
+		<key>heart_eyes</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1977,7 +3318,16 @@
 			<key>Name</key>
 			<string>:heart_eyes:</string>
 		</dict>
-		<key>heartbeat.png</key>
+		<key>heart_eyes_cat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:heart_eyes_cat:</string>
+			</array>
+			<key>Name</key>
+			<string>:heart_eyes_cat:</string>
+		</dict>
+		<key>heartbeat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1986,7 +3336,7 @@
 			<key>Name</key>
 			<string>:heartbeat:</string>
 		</dict>
-		<key>heartpulse.png</key>
+		<key>heartpulse</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -1995,7 +3345,7 @@
 			<key>Name</key>
 			<string>:heartpulse:</string>
 		</dict>
-		<key>hearts.png</key>
+		<key>hearts</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2004,7 +3354,88 @@
 			<key>Name</key>
 			<string>:hearts:</string>
 		</dict>
-		<key>hibiscus.png</key>
+		<key>heavy_check_mark</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:heavy_check_mark:</string>
+			</array>
+			<key>Name</key>
+			<string>:heavy_check_mark:</string>
+		</dict>
+		<key>heavy_division_sign</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:heavy_division_sign:</string>
+			</array>
+			<key>Name</key>
+			<string>:heavy_division_sign:</string>
+		</dict>
+		<key>heavy_dollar_sign</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:heavy_dollar_sign:</string>
+			</array>
+			<key>Name</key>
+			<string>:heavy_dollar_sign:</string>
+		</dict>
+		<key>heavy_exclamation_mark</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:heavy_exclamation_mark:</string>
+			</array>
+			<key>Name</key>
+			<string>:heavy_exclamation_mark:</string>
+		</dict>
+		<key>heavy_minus_sign</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:heavy_minus_sign:</string>
+			</array>
+			<key>Name</key>
+			<string>:heavy_minus_sign:</string>
+		</dict>
+		<key>heavy_multiplication_x</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:heavy_multiplication_x:</string>
+			</array>
+			<key>Name</key>
+			<string>:heavy_multiplication_x:</string>
+		</dict>
+		<key>heavy_plus_sign</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:heavy_plus_sign:</string>
+			</array>
+			<key>Name</key>
+			<string>:heavy_plus_sign:</string>
+		</dict>
+		<key>helicopter</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:helicopter:</string>
+			</array>
+			<key>Name</key>
+			<string>:helicopter:</string>
+		</dict>
+		<key>herb</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:herb:</string>
+			</array>
+			<key>Name</key>
+			<string>:herb:</string>
+		</dict>
+		<key>hibiscus</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2013,7 +3444,16 @@
 			<key>Name</key>
 			<string>:hibiscus:</string>
 		</dict>
-		<key>high_heel.png</key>
+		<key>high_brightness</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:high_brightness:</string>
+			</array>
+			<key>Name</key>
+			<string>:high_brightness:</string>
+		</dict>
+		<key>high_heel</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2022,7 +3462,34 @@
 			<key>Name</key>
 			<string>:high_heel:</string>
 		</dict>
-		<key>horse.png</key>
+		<key>hocho</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:hocho:</string>
+			</array>
+			<key>Name</key>
+			<string>:hocho:</string>
+		</dict>
+		<key>honey_pot</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:honey_pot:</string>
+			</array>
+			<key>Name</key>
+			<string>:honey_pot:</string>
+		</dict>
+		<key>honeybee</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:honeybee:</string>
+			</array>
+			<key>Name</key>
+			<string>:honeybee:</string>
+		</dict>
+		<key>horse</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2031,7 +3498,16 @@
 			<key>Name</key>
 			<string>:horse:</string>
 		</dict>
-		<key>hospital.png</key>
+		<key>horse_racing</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:horse_racing:</string>
+			</array>
+			<key>Name</key>
+			<string>:horse_racing:</string>
+		</dict>
+		<key>hospital</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2040,7 +3516,7 @@
 			<key>Name</key>
 			<string>:hospital:</string>
 		</dict>
-		<key>hotel.png</key>
+		<key>hotel</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2049,7 +3525,7 @@
 			<key>Name</key>
 			<string>:hotel:</string>
 		</dict>
-		<key>hotsprings.png</key>
+		<key>hotsprings</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2058,7 +3534,25 @@
 			<key>Name</key>
 			<string>:hotsprings:</string>
 		</dict>
-		<key>house.png</key>
+		<key>hourglass</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:hourglass:</string>
+			</array>
+			<key>Name</key>
+			<string>:hourglass:</string>
+		</dict>
+		<key>hourglass_flowing_sand</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:hourglass_flowing_sand:</string>
+			</array>
+			<key>Name</key>
+			<string>:hourglass_flowing_sand:</string>
+		</dict>
+		<key>house</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2067,7 +3561,16 @@
 			<key>Name</key>
 			<string>:house:</string>
 		</dict>
-		<key>hurtrealbad.png</key>
+		<key>house_with_garden</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:house_with_garden:</string>
+			</array>
+			<key>Name</key>
+			<string>:house_with_garden:</string>
+		</dict>
+		<key>hurtrealbad</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2076,7 +3579,25 @@
 			<key>Name</key>
 			<string>:hurtrealbad:</string>
 		</dict>
-		<key>icecream.png</key>
+		<key>hushed</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:hushed:</string>
+			</array>
+			<key>Name</key>
+			<string>:hushed:</string>
+		</dict>
+		<key>ice_cream</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:ice_cream:</string>
+			</array>
+			<key>Name</key>
+			<string>:ice_cream:</string>
+		</dict>
+		<key>icecream</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2085,7 +3606,7 @@
 			<key>Name</key>
 			<string>:icecream:</string>
 		</dict>
-		<key>id.png</key>
+		<key>id</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2094,7 +3615,7 @@
 			<key>Name</key>
 			<string>:id:</string>
 		</dict>
-		<key>ideograph_advantage.png</key>
+		<key>ideograph_advantage</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2103,7 +3624,7 @@
 			<key>Name</key>
 			<string>:ideograph_advantage:</string>
 		</dict>
-		<key>imp.png</key>
+		<key>imp</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2112,7 +3633,25 @@
 			<key>Name</key>
 			<string>:imp:</string>
 		</dict>
-		<key>information_desk_person.png</key>
+		<key>inbox_tray</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:inbox_tray:</string>
+			</array>
+			<key>Name</key>
+			<string>:inbox_tray:</string>
+		</dict>
+		<key>incoming_envelope</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:incoming_envelope:</string>
+			</array>
+			<key>Name</key>
+			<string>:incoming_envelope:</string>
+		</dict>
+		<key>information_desk_person</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2121,7 +3660,34 @@
 			<key>Name</key>
 			<string>:information_desk_person:</string>
 		</dict>
-		<key>iphone.png</key>
+		<key>information_source</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:information_source:</string>
+			</array>
+			<key>Name</key>
+			<string>:information_source:</string>
+		</dict>
+		<key>innocent</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:innocent:</string>
+			</array>
+			<key>Name</key>
+			<string>:innocent:</string>
+		</dict>
+		<key>interrobang</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:interrobang:</string>
+			</array>
+			<key>Name</key>
+			<string>:interrobang:</string>
+		</dict>
+		<key>iphone</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2130,7 +3696,7 @@
 			<key>Name</key>
 			<string>:iphone:</string>
 		</dict>
-		<key>it.png</key>
+		<key>it</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2139,7 +3705,16 @@
 			<key>Name</key>
 			<string>:it:</string>
 		</dict>
-		<key>jack_o_lantern.png</key>
+		<key>izakaya_lantern</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:izakaya_lantern:</string>
+			</array>
+			<key>Name</key>
+			<string>:izakaya_lantern:</string>
+		</dict>
+		<key>jack_o_lantern</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2148,7 +3723,16 @@
 			<key>Name</key>
 			<string>:jack_o_lantern:</string>
 		</dict>
-		<key>japanese_castle.png</key>
+		<key>japan</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:japan:</string>
+			</array>
+			<key>Name</key>
+			<string>:japan:</string>
+		</dict>
+		<key>japanese_castle</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2157,7 +3741,34 @@
 			<key>Name</key>
 			<string>:japanese_castle:</string>
 		</dict>
-		<key>joy.png</key>
+		<key>japanese_goblin</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:japanese_goblin:</string>
+			</array>
+			<key>Name</key>
+			<string>:japanese_goblin:</string>
+		</dict>
+		<key>japanese_ogre</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:japanese_ogre:</string>
+			</array>
+			<key>Name</key>
+			<string>:japanese_ogre:</string>
+		</dict>
+		<key>jeans</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:jeans:</string>
+			</array>
+			<key>Name</key>
+			<string>:jeans:</string>
+		</dict>
+		<key>joy</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2166,7 +3777,16 @@
 			<key>Name</key>
 			<string>:joy:</string>
 		</dict>
-		<key>jp.png</key>
+		<key>joy_cat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:joy_cat:</string>
+			</array>
+			<key>Name</key>
+			<string>:joy_cat:</string>
+		</dict>
+		<key>jp</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2175,7 +3795,7 @@
 			<key>Name</key>
 			<string>:jp:</string>
 		</dict>
-		<key>key.png</key>
+		<key>key</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2184,7 +3804,16 @@
 			<key>Name</key>
 			<string>:key:</string>
 		</dict>
-		<key>kimono.png</key>
+		<key>keycap_ten</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:keycap_ten:</string>
+			</array>
+			<key>Name</key>
+			<string>:keycap_ten:</string>
+		</dict>
+		<key>kimono</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2193,7 +3822,7 @@
 			<key>Name</key>
 			<string>:kimono:</string>
 		</dict>
-		<key>kiss.png</key>
+		<key>kiss</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2202,7 +3831,34 @@
 			<key>Name</key>
 			<string>:kiss:</string>
 		</dict>
-		<key>kissing_face.png</key>
+		<key>kissing</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:kissing:</string>
+			</array>
+			<key>Name</key>
+			<string>:kissing:</string>
+		</dict>
+		<key>kissing_cat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:kissing_cat:</string>
+			</array>
+			<key>Name</key>
+			<string>:kissing_cat:</string>
+		</dict>
+		<key>kissing_closed_eyes</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:kissing_closed_eyes:</string>
+			</array>
+			<key>Name</key>
+			<string>:kissing_closed_eyes:</string>
+		</dict>
+		<key>kissing_face</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2211,7 +3867,7 @@
 			<key>Name</key>
 			<string>:kissing_face:</string>
 		</dict>
-		<key>kissing_heart.png</key>
+		<key>kissing_heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2220,7 +3876,16 @@
 			<key>Name</key>
 			<string>:kissing_heart:</string>
 		</dict>
-		<key>koala.png</key>
+		<key>kissing_smiling_eyes</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:kissing_smiling_eyes:</string>
+			</array>
+			<key>Name</key>
+			<string>:kissing_smiling_eyes:</string>
+		</dict>
+		<key>koala</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2229,7 +3894,7 @@
 			<key>Name</key>
 			<string>:koala:</string>
 		</dict>
-		<key>koko.png</key>
+		<key>koko</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2238,7 +3903,7 @@
 			<key>Name</key>
 			<string>:koko:</string>
 		</dict>
-		<key>kr.png</key>
+		<key>kr</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2247,7 +3912,61 @@
 			<key>Name</key>
 			<string>:kr:</string>
 		</dict>
-		<key>leaves.png</key>
+		<key>large_blue_circle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:large_blue_circle:</string>
+			</array>
+			<key>Name</key>
+			<string>:large_blue_circle:</string>
+		</dict>
+		<key>large_blue_diamond</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:large_blue_diamond:</string>
+			</array>
+			<key>Name</key>
+			<string>:large_blue_diamond:</string>
+		</dict>
+		<key>large_orange_diamond</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:large_orange_diamond:</string>
+			</array>
+			<key>Name</key>
+			<string>:large_orange_diamond:</string>
+		</dict>
+		<key>last_quarter_moon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:last_quarter_moon:</string>
+			</array>
+			<key>Name</key>
+			<string>:last_quarter_moon:</string>
+		</dict>
+		<key>last_quarter_moon_with_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:last_quarter_moon_with_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:last_quarter_moon_with_face:</string>
+		</dict>
+		<key>laughing</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:laughing:</string>
+			</array>
+			<key>Name</key>
+			<string>:laughing:</string>
+		</dict>
+		<key>leaves</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2256,7 +3975,52 @@
 			<key>Name</key>
 			<string>:leaves:</string>
 		</dict>
-		<key>leo.png</key>
+		<key>ledger</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:ledger:</string>
+			</array>
+			<key>Name</key>
+			<string>:ledger:</string>
+		</dict>
+		<key>left_luggage</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:left_luggage:</string>
+			</array>
+			<key>Name</key>
+			<string>:left_luggage:</string>
+		</dict>
+		<key>left_right_arrow</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:left_right_arrow:</string>
+			</array>
+			<key>Name</key>
+			<string>:left_right_arrow:</string>
+		</dict>
+		<key>leftwards_arrow_with_hook</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:leftwards_arrow_with_hook:</string>
+			</array>
+			<key>Name</key>
+			<string>:leftwards_arrow_with_hook:</string>
+		</dict>
+		<key>lemon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:lemon:</string>
+			</array>
+			<key>Name</key>
+			<string>:lemon:</string>
+		</dict>
+		<key>leo</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2265,7 +4029,16 @@
 			<key>Name</key>
 			<string>:leo:</string>
 		</dict>
-		<key>libra.png</key>
+		<key>leopard</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:leopard:</string>
+			</array>
+			<key>Name</key>
+			<string>:leopard:</string>
+		</dict>
+		<key>libra</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2274,7 +4047,25 @@
 			<key>Name</key>
 			<string>:libra:</string>
 		</dict>
-		<key>lips.png</key>
+		<key>light_rail</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:light_rail:</string>
+			</array>
+			<key>Name</key>
+			<string>:light_rail:</string>
+		</dict>
+		<key>link</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:link:</string>
+			</array>
+			<key>Name</key>
+			<string>:link:</string>
+		</dict>
+		<key>lips</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2283,7 +4074,7 @@
 			<key>Name</key>
 			<string>:lips:</string>
 		</dict>
-		<key>lipstick.png</key>
+		<key>lipstick</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2292,7 +4083,7 @@
 			<key>Name</key>
 			<string>:lipstick:</string>
 		</dict>
-		<key>lock.png</key>
+		<key>lock</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2301,7 +4092,25 @@
 			<key>Name</key>
 			<string>:lock:</string>
 		</dict>
-		<key>loop.png</key>
+		<key>lock_with_ink_pen</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:lock_with_ink_pen:</string>
+			</array>
+			<key>Name</key>
+			<string>:lock_with_ink_pen:</string>
+		</dict>
+		<key>lollipop</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:lollipop:</string>
+			</array>
+			<key>Name</key>
+			<string>:lollipop:</string>
+		</dict>
+		<key>loop</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2310,7 +4119,7 @@
 			<key>Name</key>
 			<string>:loop:</string>
 		</dict>
-		<key>loudspeaker.png</key>
+		<key>loudspeaker</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2319,7 +4128,7 @@
 			<key>Name</key>
 			<string>:loudspeaker:</string>
 		</dict>
-		<key>love_hotel.png</key>
+		<key>love_hotel</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2328,7 +4137,34 @@
 			<key>Name</key>
 			<string>:love_hotel:</string>
 		</dict>
-		<key>mag.png</key>
+		<key>love_letter</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:love_letter:</string>
+			</array>
+			<key>Name</key>
+			<string>:love_letter:</string>
+		</dict>
+		<key>low_brightness</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:low_brightness:</string>
+			</array>
+			<key>Name</key>
+			<string>:low_brightness:</string>
+		</dict>
+		<key>m</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:m:</string>
+			</array>
+			<key>Name</key>
+			<string>:m:</string>
+		</dict>
+		<key>mag</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2337,7 +4173,16 @@
 			<key>Name</key>
 			<string>:mag:</string>
 		</dict>
-		<key>mahjong.png</key>
+		<key>mag_right</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mag_right:</string>
+			</array>
+			<key>Name</key>
+			<string>:mag_right:</string>
+		</dict>
+		<key>mahjong</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2346,7 +4191,7 @@
 			<key>Name</key>
 			<string>:mahjong:</string>
 		</dict>
-		<key>mailbox.png</key>
+		<key>mailbox</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2355,7 +4200,34 @@
 			<key>Name</key>
 			<string>:mailbox:</string>
 		</dict>
-		<key>man.png</key>
+		<key>mailbox_closed</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mailbox_closed:</string>
+			</array>
+			<key>Name</key>
+			<string>:mailbox_closed:</string>
+		</dict>
+		<key>mailbox_with_mail</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mailbox_with_mail:</string>
+			</array>
+			<key>Name</key>
+			<string>:mailbox_with_mail:</string>
+		</dict>
+		<key>mailbox_with_no_mail</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mailbox_with_no_mail:</string>
+			</array>
+			<key>Name</key>
+			<string>:mailbox_with_no_mail:</string>
+		</dict>
+		<key>man</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2364,7 +4236,7 @@
 			<key>Name</key>
 			<string>:man:</string>
 		</dict>
-		<key>man_with_gua_pi_mao.png</key>
+		<key>man_with_gua_pi_mao</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2373,7 +4245,7 @@
 			<key>Name</key>
 			<string>:man_with_gua_pi_mao:</string>
 		</dict>
-		<key>man_with_turban.png</key>
+		<key>man_with_turban</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2382,7 +4254,16 @@
 			<key>Name</key>
 			<string>:man_with_turban:</string>
 		</dict>
-		<key>maple_leaf.png</key>
+		<key>mans_shoe</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mans_shoe:</string>
+			</array>
+			<key>Name</key>
+			<string>:mans_shoe:</string>
+		</dict>
+		<key>maple_leaf</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2391,7 +4272,7 @@
 			<key>Name</key>
 			<string>:maple_leaf:</string>
 		</dict>
-		<key>mask.png</key>
+		<key>mask</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2400,7 +4281,7 @@
 			<key>Name</key>
 			<string>:mask:</string>
 		</dict>
-		<key>massage.png</key>
+		<key>massage</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2409,7 +4290,16 @@
 			<key>Name</key>
 			<string>:massage:</string>
 		</dict>
-		<key>mega.png</key>
+		<key>meat_on_bone</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:meat_on_bone:</string>
+			</array>
+			<key>Name</key>
+			<string>:meat_on_bone:</string>
+		</dict>
+		<key>mega</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2418,7 +4308,16 @@
 			<key>Name</key>
 			<string>:mega:</string>
 		</dict>
-		<key>memo.png</key>
+		<key>melon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:melon:</string>
+			</array>
+			<key>Name</key>
+			<string>:melon:</string>
+		</dict>
+		<key>memo</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2427,7 +4326,7 @@
 			<key>Name</key>
 			<string>:memo:</string>
 		</dict>
-		<key>mens.png</key>
+		<key>mens</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2436,7 +4335,7 @@
 			<key>Name</key>
 			<string>:mens:</string>
 		</dict>
-		<key>metal.png</key>
+		<key>metal</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2445,7 +4344,7 @@
 			<key>Name</key>
 			<string>:metal:</string>
 		</dict>
-		<key>metro.png</key>
+		<key>metro</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2454,7 +4353,7 @@
 			<key>Name</key>
 			<string>:metro:</string>
 		</dict>
-		<key>microphone.png</key>
+		<key>microphone</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2463,7 +4362,34 @@
 			<key>Name</key>
 			<string>:microphone:</string>
 		</dict>
-		<key>minidisc.png</key>
+		<key>microscope</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:microscope:</string>
+			</array>
+			<key>Name</key>
+			<string>:microscope:</string>
+		</dict>
+		<key>milky_way</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:milky_way:</string>
+			</array>
+			<key>Name</key>
+			<string>:milky_way:</string>
+		</dict>
+		<key>minibus</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:minibus:</string>
+			</array>
+			<key>Name</key>
+			<string>:minibus:</string>
+		</dict>
+		<key>minidisc</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2481,7 +4407,7 @@
 			<key>Name</key>
 			<string>:-1:</string>
 		</dict>
-		<key>mobile_phone_off.png</key>
+		<key>mobile_phone_off</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2490,7 +4416,16 @@
 			<key>Name</key>
 			<string>:mobile_phone_off:</string>
 		</dict>
-		<key>moneybag.png</key>
+		<key>money_with_wings</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:money_with_wings:</string>
+			</array>
+			<key>Name</key>
+			<string>:money_with_wings:</string>
+		</dict>
+		<key>moneybag</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2499,7 +4434,7 @@
 			<key>Name</key>
 			<string>:moneybag:</string>
 		</dict>
-		<key>monkey.png</key>
+		<key>monkey</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2508,7 +4443,7 @@
 			<key>Name</key>
 			<string>:monkey:</string>
 		</dict>
-		<key>monkey_face.png</key>
+		<key>monkey_face</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2517,7 +4452,16 @@
 			<key>Name</key>
 			<string>:monkey_face:</string>
 		</dict>
-		<key>moon.png</key>
+		<key>monorail</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:monorail:</string>
+			</array>
+			<key>Name</key>
+			<string>:monorail:</string>
+		</dict>
+		<key>moon</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2526,7 +4470,7 @@
 			<key>Name</key>
 			<string>:moon:</string>
 		</dict>
-		<key>mortar_board.png</key>
+		<key>mortar_board</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2535,7 +4479,7 @@
 			<key>Name</key>
 			<string>:mortar_board:</string>
 		</dict>
-		<key>mount_fuji.png</key>
+		<key>mount_fuji</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2544,7 +4488,34 @@
 			<key>Name</key>
 			<string>:mount_fuji:</string>
 		</dict>
-		<key>mouse.png</key>
+		<key>mountain_bicyclist</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mountain_bicyclist:</string>
+			</array>
+			<key>Name</key>
+			<string>:mountain_bicyclist:</string>
+		</dict>
+		<key>mountain_cableway</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mountain_cableway:</string>
+			</array>
+			<key>Name</key>
+			<string>:mountain_cableway:</string>
+		</dict>
+		<key>mountain_railway</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mountain_railway:</string>
+			</array>
+			<key>Name</key>
+			<string>:mountain_railway:</string>
+		</dict>
+		<key>mouse</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2553,7 +4524,16 @@
 			<key>Name</key>
 			<string>:mouse:</string>
 		</dict>
-		<key>movie_camera.png</key>
+		<key>mouse2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mouse2:</string>
+			</array>
+			<key>Name</key>
+			<string>:mouse2:</string>
+		</dict>
+		<key>movie_camera</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2562,7 +4542,16 @@
 			<key>Name</key>
 			<string>:movie_camera:</string>
 		</dict>
-		<key>muscle.png</key>
+		<key>moyai</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:moyai:</string>
+			</array>
+			<key>Name</key>
+			<string>:moyai:</string>
+		</dict>
+		<key>muscle</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2571,7 +4560,25 @@
 			<key>Name</key>
 			<string>:muscle:</string>
 		</dict>
-		<key>musical_note.png</key>
+		<key>mushroom</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mushroom:</string>
+			</array>
+			<key>Name</key>
+			<string>:mushroom:</string>
+		</dict>
+		<key>musical_keyboard</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:musical_keyboard:</string>
+			</array>
+			<key>Name</key>
+			<string>:musical_keyboard:</string>
+		</dict>
+		<key>musical_note</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2580,7 +4587,25 @@
 			<key>Name</key>
 			<string>:musical_note:</string>
 		</dict>
-		<key>nail_care.png</key>
+		<key>musical_score</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:musical_score:</string>
+			</array>
+			<key>Name</key>
+			<string>:musical_score:</string>
+		</dict>
+		<key>mute</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:mute:</string>
+			</array>
+			<key>Name</key>
+			<string>:mute:</string>
+		</dict>
+		<key>nail_care</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2589,7 +4614,25 @@
 			<key>Name</key>
 			<string>:nail_care:</string>
 		</dict>
-		<key>necktie.png</key>
+		<key>name_badge</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:name_badge:</string>
+			</array>
+			<key>Name</key>
+			<string>:name_badge:</string>
+		</dict>
+		<key>neckbeard</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:neckbeard:</string>
+			</array>
+			<key>Name</key>
+			<string>:neckbeard:</string>
+		</dict>
+		<key>necktie</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2598,7 +4641,25 @@
 			<key>Name</key>
 			<string>:necktie:</string>
 		</dict>
-		<key>new.png</key>
+		<key>negative_squared_cross_mark</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:negative_squared_cross_mark:</string>
+			</array>
+			<key>Name</key>
+			<string>:negative_squared_cross_mark:</string>
+		</dict>
+		<key>neutral_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:neutral_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:neutral_face:</string>
+		</dict>
+		<key>new</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2607,7 +4668,88 @@
 			<key>Name</key>
 			<string>:new:</string>
 		</dict>
-		<key>no_good.png</key>
+		<key>new_moon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:new_moon:</string>
+			</array>
+			<key>Name</key>
+			<string>:new_moon:</string>
+		</dict>
+		<key>new_moon_with_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:new_moon_with_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:new_moon_with_face:</string>
+		</dict>
+		<key>newspaper</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:newspaper:</string>
+			</array>
+			<key>Name</key>
+			<string>:newspaper:</string>
+		</dict>
+		<key>ng</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:ng:</string>
+			</array>
+			<key>Name</key>
+			<string>:ng:</string>
+		</dict>
+		<key>nine</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:nine:</string>
+			</array>
+			<key>Name</key>
+			<string>:nine:</string>
+		</dict>
+		<key>no_bell</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:no_bell:</string>
+			</array>
+			<key>Name</key>
+			<string>:no_bell:</string>
+		</dict>
+		<key>no_bicycles</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:no_bicycles:</string>
+			</array>
+			<key>Name</key>
+			<string>:no_bicycles:</string>
+		</dict>
+		<key>no_entry</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:no_entry:</string>
+			</array>
+			<key>Name</key>
+			<string>:no_entry:</string>
+		</dict>
+		<key>no_entry_sign</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:no_entry_sign:</string>
+			</array>
+			<key>Name</key>
+			<string>:no_entry_sign:</string>
+		</dict>
+		<key>no_good</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2616,7 +4758,34 @@
 			<key>Name</key>
 			<string>:no_good:</string>
 		</dict>
-		<key>no_smoking.png</key>
+		<key>no_mobile_phones</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:no_mobile_phones:</string>
+			</array>
+			<key>Name</key>
+			<string>:no_mobile_phones:</string>
+		</dict>
+		<key>no_mouth</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:no_mouth:</string>
+			</array>
+			<key>Name</key>
+			<string>:no_mouth:</string>
+		</dict>
+		<key>no_pedestrians</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:no_pedestrians:</string>
+			</array>
+			<key>Name</key>
+			<string>:no_pedestrians:</string>
+		</dict>
+		<key>no_smoking</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2625,7 +4794,16 @@
 			<key>Name</key>
 			<string>:no_smoking:</string>
 		</dict>
-		<key>nose.png</key>
+		<key>non-potable_water</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:non-potable_water:</string>
+			</array>
+			<key>Name</key>
+			<string>:non-potable_water:</string>
+		</dict>
+		<key>nose</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2634,7 +4812,25 @@
 			<key>Name</key>
 			<string>:nose:</string>
 		</dict>
-		<key>notes.png</key>
+		<key>notebook</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:notebook:</string>
+			</array>
+			<key>Name</key>
+			<string>:notebook:</string>
+		</dict>
+		<key>notebook_with_decorative_cover</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:notebook_with_decorative_cover:</string>
+			</array>
+			<key>Name</key>
+			<string>:notebook_with_decorative_cover:</string>
+		</dict>
+		<key>notes</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2643,7 +4839,16 @@
 			<key>Name</key>
 			<string>:notes:</string>
 		</dict>
-		<key>o.png</key>
+		<key>nut_and_bolt</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:nut_and_bolt:</string>
+			</array>
+			<key>Name</key>
+			<string>:nut_and_bolt:</string>
+		</dict>
+		<key>o</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2652,7 +4857,7 @@
 			<key>Name</key>
 			<string>:o:</string>
 		</dict>
-		<key>o2.png</key>
+		<key>o2</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2661,7 +4866,7 @@
 			<key>Name</key>
 			<string>:o2:</string>
 		</dict>
-		<key>ocean.png</key>
+		<key>ocean</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2670,7 +4875,7 @@
 			<key>Name</key>
 			<string>:ocean:</string>
 		</dict>
-		<key>octocat.png</key>
+		<key>octocat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2679,7 +4884,7 @@
 			<key>Name</key>
 			<string>:octocat:</string>
 		</dict>
-		<key>octopus.png</key>
+		<key>octopus</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2688,7 +4893,7 @@
 			<key>Name</key>
 			<string>:octopus:</string>
 		</dict>
-		<key>oden.png</key>
+		<key>oden</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2697,7 +4902,7 @@
 			<key>Name</key>
 			<string>:oden:</string>
 		</dict>
-		<key>office.png</key>
+		<key>office</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2706,7 +4911,7 @@
 			<key>Name</key>
 			<string>:office:</string>
 		</dict>
-		<key>ok.png</key>
+		<key>ok</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2715,7 +4920,7 @@
 			<key>Name</key>
 			<string>:ok:</string>
 		</dict>
-		<key>ok_hand.png</key>
+		<key>ok_hand</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2724,7 +4929,7 @@
 			<key>Name</key>
 			<string>:ok_hand:</string>
 		</dict>
-		<key>ok_woman.png</key>
+		<key>ok_woman</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2733,7 +4938,7 @@
 			<key>Name</key>
 			<string>:ok_woman:</string>
 		</dict>
-		<key>older_man.png</key>
+		<key>older_man</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2742,7 +4947,7 @@
 			<key>Name</key>
 			<string>:older_man:</string>
 		</dict>
-		<key>older_woman.png</key>
+		<key>older_woman</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2751,7 +4956,70 @@
 			<key>Name</key>
 			<string>:older_woman:</string>
 		</dict>
-		<key>open_hands.png</key>
+		<key>on</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:on:</string>
+			</array>
+			<key>Name</key>
+			<string>:on:</string>
+		</dict>
+		<key>oncoming_automobile</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:oncoming_automobile:</string>
+			</array>
+			<key>Name</key>
+			<string>:oncoming_automobile:</string>
+		</dict>
+		<key>oncoming_bus</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:oncoming_bus:</string>
+			</array>
+			<key>Name</key>
+			<string>:oncoming_bus:</string>
+		</dict>
+		<key>oncoming_police_car</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:oncoming_police_car:</string>
+			</array>
+			<key>Name</key>
+			<string>:oncoming_police_car:</string>
+		</dict>
+		<key>oncoming_taxi</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:oncoming_taxi:</string>
+			</array>
+			<key>Name</key>
+			<string>:oncoming_taxi:</string>
+		</dict>
+		<key>one</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:one:</string>
+			</array>
+			<key>Name</key>
+			<string>:one:</string>
+		</dict>
+		<key>open_file_folder</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:open_file_folder:</string>
+			</array>
+			<key>Name</key>
+			<string>:open_file_folder:</string>
+		</dict>
+		<key>open_hands</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2760,7 +5028,16 @@
 			<key>Name</key>
 			<string>:open_hands:</string>
 		</dict>
-		<key>ophiuchus.png</key>
+		<key>open_mouth</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:open_mouth:</string>
+			</array>
+			<key>Name</key>
+			<string>:open_mouth:</string>
+		</dict>
+		<key>ophiuchus</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2769,7 +5046,61 @@
 			<key>Name</key>
 			<string>:ophiuchus:</string>
 		</dict>
-		<key>palm_tree.png</key>
+		<key>orange_book</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:orange_book:</string>
+			</array>
+			<key>Name</key>
+			<string>:orange_book:</string>
+		</dict>
+		<key>outbox_tray</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:outbox_tray:</string>
+			</array>
+			<key>Name</key>
+			<string>:outbox_tray:</string>
+		</dict>
+		<key>ox</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:ox:</string>
+			</array>
+			<key>Name</key>
+			<string>:ox:</string>
+		</dict>
+		<key>page_facing_up</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:page_facing_up:</string>
+			</array>
+			<key>Name</key>
+			<string>:page_facing_up:</string>
+		</dict>
+		<key>page_with_curl</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:page_with_curl:</string>
+			</array>
+			<key>Name</key>
+			<string>:page_with_curl:</string>
+		</dict>
+		<key>pager</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pager:</string>
+			</array>
+			<key>Name</key>
+			<string>:pager:</string>
+		</dict>
+		<key>palm_tree</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2778,7 +5109,25 @@
 			<key>Name</key>
 			<string>:palm_tree:</string>
 		</dict>
-		<key>parking.png</key>
+		<key>panda_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:panda_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:panda_face:</string>
+		</dict>
+		<key>paperclip</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:paperclip:</string>
+			</array>
+			<key>Name</key>
+			<string>:paperclip:</string>
+		</dict>
+		<key>parking</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2787,7 +5136,7 @@
 			<key>Name</key>
 			<string>:parking:</string>
 		</dict>
-		<key>part_alternation_mark.png</key>
+		<key>part_alternation_mark</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2796,7 +5145,52 @@
 			<key>Name</key>
 			<string>:part_alternation_mark:</string>
 		</dict>
-		<key>pencil.png</key>
+		<key>partly_sunny</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:partly_sunny:</string>
+			</array>
+			<key>Name</key>
+			<string>:partly_sunny:</string>
+		</dict>
+		<key>passport_control</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:passport_control:</string>
+			</array>
+			<key>Name</key>
+			<string>:passport_control:</string>
+		</dict>
+		<key>paw_prints</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:paw_prints:</string>
+			</array>
+			<key>Name</key>
+			<string>:paw_prints:</string>
+		</dict>
+		<key>peach</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:peach:</string>
+			</array>
+			<key>Name</key>
+			<string>:peach:</string>
+		</dict>
+		<key>pear</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pear:</string>
+			</array>
+			<key>Name</key>
+			<string>:pear:</string>
+		</dict>
+		<key>pencil</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2805,7 +5199,16 @@
 			<key>Name</key>
 			<string>:pencil:</string>
 		</dict>
-		<key>penguin.png</key>
+		<key>pencil2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pencil2:</string>
+			</array>
+			<key>Name</key>
+			<string>:pencil2:</string>
+		</dict>
+		<key>penguin</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2814,7 +5217,7 @@
 			<key>Name</key>
 			<string>:penguin:</string>
 		</dict>
-		<key>pensive.png</key>
+		<key>pensive</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2823,7 +5226,16 @@
 			<key>Name</key>
 			<string>:pensive:</string>
 		</dict>
-		<key>persevere.png</key>
+		<key>performing_arts</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:performing_arts:</string>
+			</array>
+			<key>Name</key>
+			<string>:performing_arts:</string>
+		</dict>
+		<key>persevere</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2832,7 +5244,16 @@
 			<key>Name</key>
 			<string>:persevere:</string>
 		</dict>
-		<key>person_with_blond_hair.png</key>
+		<key>person_frowning</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:person_frowning:</string>
+			</array>
+			<key>Name</key>
+			<string>:person_frowning:</string>
+		</dict>
+		<key>person_with_blond_hair</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2841,7 +5262,16 @@
 			<key>Name</key>
 			<string>:person_with_blond_hair:</string>
 		</dict>
-		<key>phone.png</key>
+		<key>person_with_pouting_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:person_with_pouting_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:person_with_pouting_face:</string>
+		</dict>
+		<key>phone</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2850,7 +5280,7 @@
 			<key>Name</key>
 			<string>:phone:</string>
 		</dict>
-		<key>pig.png</key>
+		<key>pig</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2859,7 +5289,25 @@
 			<key>Name</key>
 			<string>:pig:</string>
 		</dict>
-		<key>pill.png</key>
+		<key>pig2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pig2:</string>
+			</array>
+			<key>Name</key>
+			<string>:pig2:</string>
+		</dict>
+		<key>pig_nose</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pig_nose:</string>
+			</array>
+			<key>Name</key>
+			<string>:pig_nose:</string>
+		</dict>
+		<key>pill</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2868,7 +5316,16 @@
 			<key>Name</key>
 			<string>:pill:</string>
 		</dict>
-		<key>pisces.png</key>
+		<key>pineapple</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pineapple:</string>
+			</array>
+			<key>Name</key>
+			<string>:pineapple:</string>
+		</dict>
+		<key>pisces</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2876,6 +5333,15 @@
 			</array>
 			<key>Name</key>
 			<string>:pisces:</string>
+		</dict>
+		<key>pizza</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pizza:</string>
+			</array>
+			<key>Name</key>
+			<string>:pizza:</string>
 		</dict>
 		<key>plus1.png</key>
 		<dict>
@@ -2886,7 +5352,7 @@
 			<key>Name</key>
 			<string>:+1:</string>
 		</dict>
-		<key>point_down.png</key>
+		<key>point_down</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2895,7 +5361,7 @@
 			<key>Name</key>
 			<string>:point_down:</string>
 		</dict>
-		<key>point_left.png</key>
+		<key>point_left</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2904,7 +5370,7 @@
 			<key>Name</key>
 			<string>:point_left:</string>
 		</dict>
-		<key>point_right.png</key>
+		<key>point_right</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2913,7 +5379,7 @@
 			<key>Name</key>
 			<string>:point_right:</string>
 		</dict>
-		<key>point_up.png</key>
+		<key>point_up</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2922,7 +5388,7 @@
 			<key>Name</key>
 			<string>:point_up:</string>
 		</dict>
-		<key>point_up_2.png</key>
+		<key>point_up_2</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2931,7 +5397,7 @@
 			<key>Name</key>
 			<string>:point_up_2:</string>
 		</dict>
-		<key>police_car.png</key>
+		<key>police_car</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2940,7 +5406,16 @@
 			<key>Name</key>
 			<string>:police_car:</string>
 		</dict>
-		<key>poop.png</key>
+		<key>poodle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:poodle:</string>
+			</array>
+			<key>Name</key>
+			<string>:poodle:</string>
+		</dict>
+		<key>poop</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2949,7 +5424,7 @@
 			<key>Name</key>
 			<string>:poop:</string>
 		</dict>
-		<key>post_office.png</key>
+		<key>post_office</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2958,7 +5433,16 @@
 			<key>Name</key>
 			<string>:post_office:</string>
 		</dict>
-		<key>postbox.png</key>
+		<key>postal_horn</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:postal_horn:</string>
+			</array>
+			<key>Name</key>
+			<string>:postal_horn:</string>
+		</dict>
+		<key>postbox</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2967,7 +5451,52 @@
 			<key>Name</key>
 			<string>:postbox:</string>
 		</dict>
-		<key>pray.png</key>
+		<key>potable_water</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:potable_water:</string>
+			</array>
+			<key>Name</key>
+			<string>:potable_water:</string>
+		</dict>
+		<key>pouch</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pouch:</string>
+			</array>
+			<key>Name</key>
+			<string>:pouch:</string>
+		</dict>
+		<key>poultry_leg</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:poultry_leg:</string>
+			</array>
+			<key>Name</key>
+			<string>:poultry_leg:</string>
+		</dict>
+		<key>pound</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pound:</string>
+			</array>
+			<key>Name</key>
+			<string>:pound:</string>
+		</dict>
+		<key>pouting_cat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pouting_cat:</string>
+			</array>
+			<key>Name</key>
+			<string>:pouting_cat:</string>
+		</dict>
+		<key>pray</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2976,7 +5505,7 @@
 			<key>Name</key>
 			<string>:pray:</string>
 		</dict>
-		<key>princess.png</key>
+		<key>princess</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2985,7 +5514,7 @@
 			<key>Name</key>
 			<string>:princess:</string>
 		</dict>
-		<key>punch.png</key>
+		<key>punch</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -2994,7 +5523,7 @@
 			<key>Name</key>
 			<string>:punch:</string>
 		</dict>
-		<key>purple_heart.png</key>
+		<key>purple_heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3003,7 +5532,34 @@
 			<key>Name</key>
 			<string>:purple_heart:</string>
 		</dict>
-		<key>question.png</key>
+		<key>purse</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:purse:</string>
+			</array>
+			<key>Name</key>
+			<string>:purse:</string>
+		</dict>
+		<key>pushpin</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:pushpin:</string>
+			</array>
+			<key>Name</key>
+			<string>:pushpin:</string>
+		</dict>
+		<key>put_litter_in_its_place</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:put_litter_in_its_place:</string>
+			</array>
+			<key>Name</key>
+			<string>:put_litter_in_its_place:</string>
+		</dict>
+		<key>question</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3012,7 +5568,7 @@
 			<key>Name</key>
 			<string>:question:</string>
 		</dict>
-		<key>rabbit.png</key>
+		<key>rabbit</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3021,7 +5577,16 @@
 			<key>Name</key>
 			<string>:rabbit:</string>
 		</dict>
-		<key>racehorse.png</key>
+		<key>rabbit2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:rabbit2:</string>
+			</array>
+			<key>Name</key>
+			<string>:rabbit2:</string>
+		</dict>
+		<key>racehorse</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3030,7 +5595,7 @@
 			<key>Name</key>
 			<string>:racehorse:</string>
 		</dict>
-		<key>radio.png</key>
+		<key>radio</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3039,7 +5604,16 @@
 			<key>Name</key>
 			<string>:radio:</string>
 		</dict>
-		<key>rage.png</key>
+		<key>radio_button</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:radio_button:</string>
+			</array>
+			<key>Name</key>
+			<string>:radio_button:</string>
+		</dict>
+		<key>rage</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3048,7 +5622,7 @@
 			<key>Name</key>
 			<string>:rage:</string>
 		</dict>
-		<key>rage1.png</key>
+		<key>rage1</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3057,7 +5631,7 @@
 			<key>Name</key>
 			<string>:rage1:</string>
 		</dict>
-		<key>rage2.png</key>
+		<key>rage2</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3066,7 +5640,7 @@
 			<key>Name</key>
 			<string>:rage2:</string>
 		</dict>
-		<key>rage3.png</key>
+		<key>rage3</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3075,7 +5649,7 @@
 			<key>Name</key>
 			<string>:rage3:</string>
 		</dict>
-		<key>rage4.png</key>
+		<key>rage4</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3084,7 +5658,16 @@
 			<key>Name</key>
 			<string>:rage4:</string>
 		</dict>
-		<key>rainbow.png</key>
+		<key>railway_car</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:railway_car:</string>
+			</array>
+			<key>Name</key>
+			<string>:railway_car:</string>
+		</dict>
+		<key>rainbow</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3093,7 +5676,16 @@
 			<key>Name</key>
 			<string>:rainbow:</string>
 		</dict>
-		<key>raised_hands.png</key>
+		<key>raised_hand</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:raised_hand:</string>
+			</array>
+			<key>Name</key>
+			<string>:raised_hand:</string>
+		</dict>
+		<key>raised_hands</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3102,7 +5694,25 @@
 			<key>Name</key>
 			<string>:raised_hands:</string>
 		</dict>
-		<key>ramen.png</key>
+		<key>raising_hand</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:raising_hand:</string>
+			</array>
+			<key>Name</key>
+			<string>:raising_hand:</string>
+		</dict>
+		<key>ram</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:ram:</string>
+			</array>
+			<key>Name</key>
+			<string>:ram:</string>
+		</dict>
+		<key>ramen</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3111,7 +5721,25 @@
 			<key>Name</key>
 			<string>:ramen:</string>
 		</dict>
-		<key>red_car.png</key>
+		<key>rat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:rat:</string>
+			</array>
+			<key>Name</key>
+			<string>:rat:</string>
+		</dict>
+		<key>recycle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:recycle:</string>
+			</array>
+			<key>Name</key>
+			<string>:recycle:</string>
+		</dict>
+		<key>red_car</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3120,7 +5748,7 @@
 			<key>Name</key>
 			<string>:red_car:</string>
 		</dict>
-		<key>red_circle.png</key>
+		<key>red_circle</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3129,7 +5757,7 @@
 			<key>Name</key>
 			<string>:red_circle:</string>
 		</dict>
-		<key>registered.png</key>
+		<key>registered</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3138,7 +5766,7 @@
 			<key>Name</key>
 			<string>:registered:</string>
 		</dict>
-		<key>relaxed.png</key>
+		<key>relaxed</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3147,7 +5775,7 @@
 			<key>Name</key>
 			<string>:relaxed:</string>
 		</dict>
-		<key>relieved.png</key>
+		<key>relieved</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3156,7 +5784,25 @@
 			<key>Name</key>
 			<string>:relieved:</string>
 		</dict>
-		<key>restroom.png</key>
+		<key>repeat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:repeat:</string>
+			</array>
+			<key>Name</key>
+			<string>:repeat:</string>
+		</dict>
+		<key>repeat_one</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:repeat_one:</string>
+			</array>
+			<key>Name</key>
+			<string>:repeat_one:</string>
+		</dict>
+		<key>restroom</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3165,7 +5811,16 @@
 			<key>Name</key>
 			<string>:restroom:</string>
 		</dict>
-		<key>rewind.png</key>
+		<key>revolving_hearts</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:revolving_hearts:</string>
+			</array>
+			<key>Name</key>
+			<string>:revolving_hearts:</string>
+		</dict>
+		<key>rewind</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3174,7 +5829,7 @@
 			<key>Name</key>
 			<string>:rewind:</string>
 		</dict>
-		<key>ribbon.png</key>
+		<key>ribbon</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3183,7 +5838,7 @@
 			<key>Name</key>
 			<string>:ribbon:</string>
 		</dict>
-		<key>rice.png</key>
+		<key>rice</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3192,7 +5847,7 @@
 			<key>Name</key>
 			<string>:rice:</string>
 		</dict>
-		<key>rice_ball.png</key>
+		<key>rice_ball</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3201,7 +5856,7 @@
 			<key>Name</key>
 			<string>:rice_ball:</string>
 		</dict>
-		<key>rice_cracker.png</key>
+		<key>rice_cracker</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3210,7 +5865,7 @@
 			<key>Name</key>
 			<string>:rice_cracker:</string>
 		</dict>
-		<key>rice_scene.png</key>
+		<key>rice_scene</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3219,7 +5874,7 @@
 			<key>Name</key>
 			<string>:rice_scene:</string>
 		</dict>
-		<key>ring.png</key>
+		<key>ring</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3228,7 +5883,7 @@
 			<key>Name</key>
 			<string>:ring:</string>
 		</dict>
-		<key>rocket.png</key>
+		<key>rocket</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3237,7 +5892,7 @@
 			<key>Name</key>
 			<string>:rocket:</string>
 		</dict>
-		<key>roller_coaster.png</key>
+		<key>roller_coaster</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3246,7 +5901,16 @@
 			<key>Name</key>
 			<string>:roller_coaster:</string>
 		</dict>
-		<key>rose.png</key>
+		<key>rooster</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:rooster:</string>
+			</array>
+			<key>Name</key>
+			<string>:rooster:</string>
+		</dict>
+		<key>rose</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3255,7 +5919,34 @@
 			<key>Name</key>
 			<string>:rose:</string>
 		</dict>
-		<key>ru.png</key>
+		<key>rotating_light</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:rotating_light:</string>
+			</array>
+			<key>Name</key>
+			<string>:rotating_light:</string>
+		</dict>
+		<key>round_pushpin</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:round_pushpin:</string>
+			</array>
+			<key>Name</key>
+			<string>:round_pushpin:</string>
+		</dict>
+		<key>rowboat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:rowboat:</string>
+			</array>
+			<key>Name</key>
+			<string>:rowboat:</string>
+		</dict>
+		<key>ru</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3264,7 +5955,16 @@
 			<key>Name</key>
 			<string>:ru:</string>
 		</dict>
-		<key>runner.png</key>
+		<key>rugby_football</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:rugby_football:</string>
+			</array>
+			<key>Name</key>
+			<string>:rugby_football:</string>
+		</dict>
+		<key>runner</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3273,7 +5973,25 @@
 			<key>Name</key>
 			<string>:runner:</string>
 		</dict>
-		<key>sa.png</key>
+		<key>running</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:running:</string>
+			</array>
+			<key>Name</key>
+			<string>:running:</string>
+		</dict>
+		<key>running_shirt_with_sash</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:running_shirt_with_sash:</string>
+			</array>
+			<key>Name</key>
+			<string>:running_shirt_with_sash:</string>
+		</dict>
+		<key>sa</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3282,7 +6000,7 @@
 			<key>Name</key>
 			<string>:sa:</string>
 		</dict>
-		<key>sagittarius.png</key>
+		<key>sagittarius</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3291,7 +6009,7 @@
 			<key>Name</key>
 			<string>:sagittarius:</string>
 		</dict>
-		<key>sailboat.png</key>
+		<key>sailboat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3300,7 +6018,7 @@
 			<key>Name</key>
 			<string>:sailboat:</string>
 		</dict>
-		<key>sake.png</key>
+		<key>sake</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3309,7 +6027,7 @@
 			<key>Name</key>
 			<string>:sake:</string>
 		</dict>
-		<key>sandal.png</key>
+		<key>sandal</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3318,7 +6036,7 @@
 			<key>Name</key>
 			<string>:sandal:</string>
 		</dict>
-		<key>santa.png</key>
+		<key>santa</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3327,7 +6045,7 @@
 			<key>Name</key>
 			<string>:santa:</string>
 		</dict>
-		<key>satellite.png</key>
+		<key>satellite</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3336,7 +6054,7 @@
 			<key>Name</key>
 			<string>:satellite:</string>
 		</dict>
-		<key>satisfied.png</key>
+		<key>satisfied</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3345,7 +6063,7 @@
 			<key>Name</key>
 			<string>:satisfied:</string>
 		</dict>
-		<key>saxophone.png</key>
+		<key>saxophone</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3354,7 +6072,7 @@
 			<key>Name</key>
 			<string>:saxophone:</string>
 		</dict>
-		<key>school.png</key>
+		<key>school</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3363,7 +6081,7 @@
 			<key>Name</key>
 			<string>:school:</string>
 		</dict>
-		<key>school_satchel.png</key>
+		<key>school_satchel</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3372,7 +6090,7 @@
 			<key>Name</key>
 			<string>:school_satchel:</string>
 		</dict>
-		<key>scissors.png</key>
+		<key>scissors</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3381,7 +6099,7 @@
 			<key>Name</key>
 			<string>:scissors:</string>
 		</dict>
-		<key>scorpius.png</key>
+		<key>scorpius</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3390,7 +6108,7 @@
 			<key>Name</key>
 			<string>:scorpius:</string>
 		</dict>
-		<key>scream.png</key>
+		<key>scream</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3399,7 +6117,25 @@
 			<key>Name</key>
 			<string>:scream:</string>
 		</dict>
-		<key>seat.png</key>
+		<key>scream_cat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:scream_cat:</string>
+			</array>
+			<key>Name</key>
+			<string>:scream_cat:</string>
+		</dict>
+		<key>scroll</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:scroll:</string>
+			</array>
+			<key>Name</key>
+			<string>:scroll:</string>
+		</dict>
+		<key>seat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3408,7 +6144,7 @@
 			<key>Name</key>
 			<string>:seat:</string>
 		</dict>
-		<key>secret.png</key>
+		<key>secret</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3417,7 +6153,34 @@
 			<key>Name</key>
 			<string>:secret:</string>
 		</dict>
-		<key>shaved_ice.png</key>
+		<key>see_no_evil</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:see_no_evil:</string>
+			</array>
+			<key>Name</key>
+			<string>:see_no_evil:</string>
+		</dict>
+		<key>seedling</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:seedling:</string>
+			</array>
+			<key>Name</key>
+			<string>:seedling:</string>
+		</dict>
+		<key>seven</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:seven:</string>
+			</array>
+			<key>Name</key>
+			<string>:seven:</string>
+		</dict>
+		<key>shaved_ice</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3426,7 +6189,7 @@
 			<key>Name</key>
 			<string>:shaved_ice:</string>
 		</dict>
-		<key>sheep.png</key>
+		<key>sheep</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3435,7 +6198,7 @@
 			<key>Name</key>
 			<string>:sheep:</string>
 		</dict>
-		<key>shell.png</key>
+		<key>shell</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3444,7 +6207,7 @@
 			<key>Name</key>
 			<string>:shell:</string>
 		</dict>
-		<key>ship.png</key>
+		<key>ship</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3453,7 +6216,7 @@
 			<key>Name</key>
 			<string>:ship:</string>
 		</dict>
-		<key>shipit.png</key>
+		<key>shipit</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3462,7 +6225,7 @@
 			<key>Name</key>
 			<string>:shipit:</string>
 		</dict>
-		<key>shirt.png</key>
+		<key>shirt</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3471,7 +6234,7 @@
 			<key>Name</key>
 			<string>:shirt:</string>
 		</dict>
-		<key>shit.png</key>
+		<key>shit</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3480,7 +6243,7 @@
 			<key>Name</key>
 			<string>:shit:</string>
 		</dict>
-		<key>shoe.png</key>
+		<key>shoe</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3489,7 +6252,16 @@
 			<key>Name</key>
 			<string>:shoe:</string>
 		</dict>
-		<key>signal_strength.png</key>
+		<key>shower</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:shower:</string>
+			</array>
+			<key>Name</key>
+			<string>:shower:</string>
+		</dict>
+		<key>signal_strength</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3498,7 +6270,16 @@
 			<key>Name</key>
 			<string>:signal_strength:</string>
 		</dict>
-		<key>six_pointed_star.png</key>
+		<key>six</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:six:</string>
+			</array>
+			<key>Name</key>
+			<string>:six:</string>
+		</dict>
+		<key>six_pointed_star</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3507,7 +6288,7 @@
 			<key>Name</key>
 			<string>:six_pointed_star:</string>
 		</dict>
-		<key>ski.png</key>
+		<key>ski</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3516,7 +6297,7 @@
 			<key>Name</key>
 			<string>:ski:</string>
 		</dict>
-		<key>skull.png</key>
+		<key>skull</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3525,7 +6306,16 @@
 			<key>Name</key>
 			<string>:skull:</string>
 		</dict>
-		<key>sleepy.png</key>
+		<key>sleeping</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:sleeping:</string>
+			</array>
+			<key>Name</key>
+			<string>:sleeping:</string>
+		</dict>
+		<key>sleepy</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3534,7 +6324,7 @@
 			<key>Name</key>
 			<string>:sleepy:</string>
 		</dict>
-		<key>slot_machine.png</key>
+		<key>slot_machine</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3543,7 +6333,43 @@
 			<key>Name</key>
 			<string>:slot_machine:</string>
 		</dict>
-		<key>smile.png</key>
+		<key>small_blue_diamond</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:small_blue_diamond:</string>
+			</array>
+			<key>Name</key>
+			<string>:small_blue_diamond:</string>
+		</dict>
+		<key>small_orange_diamond</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:small_orange_diamond:</string>
+			</array>
+			<key>Name</key>
+			<string>:small_orange_diamond:</string>
+		</dict>
+		<key>small_red_triangle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:small_red_triangle:</string>
+			</array>
+			<key>Name</key>
+			<string>:small_red_triangle:</string>
+		</dict>
+		<key>small_red_triangle_down</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:small_red_triangle_down:</string>
+			</array>
+			<key>Name</key>
+			<string>:small_red_triangle_down:</string>
+		</dict>
+		<key>smile</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3552,7 +6378,16 @@
 			<key>Name</key>
 			<string>:smile:</string>
 		</dict>
-		<key>smiley.png</key>
+		<key>smile_cat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:smile_cat:</string>
+			</array>
+			<key>Name</key>
+			<string>:smile_cat:</string>
+		</dict>
+		<key>smiley</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3561,7 +6396,25 @@
 			<key>Name</key>
 			<string>:smiley:</string>
 		</dict>
-		<key>smirk.png</key>
+		<key>smiley_cat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:smiley_cat:</string>
+			</array>
+			<key>Name</key>
+			<string>:smiley_cat:</string>
+		</dict>
+		<key>smiling_imp</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:smiling_imp:</string>
+			</array>
+			<key>Name</key>
+			<string>:smiling_imp:</string>
+		</dict>
+		<key>smirk</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3570,7 +6423,16 @@
 			<key>Name</key>
 			<string>:smirk:</string>
 		</dict>
-		<key>smoking.png</key>
+		<key>smirk_cat</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:smirk_cat:</string>
+			</array>
+			<key>Name</key>
+			<string>:smirk_cat:</string>
+		</dict>
+		<key>smoking</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3579,7 +6441,16 @@
 			<key>Name</key>
 			<string>:smoking:</string>
 		</dict>
-		<key>snake.png</key>
+		<key>snail</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:snail:</string>
+			</array>
+			<key>Name</key>
+			<string>:snail:</string>
+		</dict>
+		<key>snake</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3588,7 +6459,25 @@
 			<key>Name</key>
 			<string>:snake:</string>
 		</dict>
-		<key>snowman.png</key>
+		<key>snowboarder</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:snowboarder:</string>
+			</array>
+			<key>Name</key>
+			<string>:snowboarder:</string>
+		</dict>
+		<key>snowflake</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:snowflake:</string>
+			</array>
+			<key>Name</key>
+			<string>:snowflake:</string>
+		</dict>
+		<key>snowman</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3597,7 +6486,7 @@
 			<key>Name</key>
 			<string>:snowman:</string>
 		</dict>
-		<key>sob.png</key>
+		<key>sob</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3606,7 +6495,7 @@
 			<key>Name</key>
 			<string>:sob:</string>
 		</dict>
-		<key>soccer.png</key>
+		<key>soccer</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3615,7 +6504,34 @@
 			<key>Name</key>
 			<string>:soccer:</string>
 		</dict>
-		<key>space_invader.png</key>
+		<key>soon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:soon:</string>
+			</array>
+			<key>Name</key>
+			<string>:soon:</string>
+		</dict>
+		<key>sos</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:sos:</string>
+			</array>
+			<key>Name</key>
+			<string>:sos:</string>
+		</dict>
+		<key>sound</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:sound:</string>
+			</array>
+			<key>Name</key>
+			<string>:sound:</string>
+		</dict>
+		<key>space_invader</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3624,7 +6540,7 @@
 			<key>Name</key>
 			<string>:space_invader:</string>
 		</dict>
-		<key>spades.png</key>
+		<key>spades</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3633,7 +6549,7 @@
 			<key>Name</key>
 			<string>:spades:</string>
 		</dict>
-		<key>spaghetti.png</key>
+		<key>spaghetti</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3642,7 +6558,7 @@
 			<key>Name</key>
 			<string>:spaghetti:</string>
 		</dict>
-		<key>sparkler.png</key>
+		<key>sparkler</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3651,7 +6567,7 @@
 			<key>Name</key>
 			<string>:sparkler:</string>
 		</dict>
-		<key>sparkles.png</key>
+		<key>sparkles</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3660,7 +6576,25 @@
 			<key>Name</key>
 			<string>:sparkles:</string>
 		</dict>
-		<key>speaker.png</key>
+		<key>sparkling_heart</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:sparkling_heart:</string>
+			</array>
+			<key>Name</key>
+			<string>:sparkling_heart:</string>
+		</dict>
+		<key>speak_no_evil</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:speak_no_evil:</string>
+			</array>
+			<key>Name</key>
+			<string>:speak_no_evil:</string>
+		</dict>
+		<key>speaker</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3669,7 +6603,16 @@
 			<key>Name</key>
 			<string>:speaker:</string>
 		</dict>
-		<key>speedboat.png</key>
+		<key>speech_balloon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:speech_balloon:</string>
+			</array>
+			<key>Name</key>
+			<string>:speech_balloon:</string>
+		</dict>
+		<key>speedboat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3678,7 +6621,7 @@
 			<key>Name</key>
 			<string>:speedboat:</string>
 		</dict>
-		<key>squirrel.png</key>
+		<key>squirrel</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3687,7 +6630,7 @@
 			<key>Name</key>
 			<string>:squirrel:</string>
 		</dict>
-		<key>star.png</key>
+		<key>star</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3696,7 +6639,7 @@
 			<key>Name</key>
 			<string>:star:</string>
 		</dict>
-		<key>star2.png</key>
+		<key>star2</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3705,7 +6648,7 @@
 			<key>Name</key>
 			<string>:star2:</string>
 		</dict>
-		<key>stars.png</key>
+		<key>stars</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3714,7 +6657,7 @@
 			<key>Name</key>
 			<string>:stars:</string>
 		</dict>
-		<key>station.png</key>
+		<key>station</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3723,7 +6666,7 @@
 			<key>Name</key>
 			<string>:station:</string>
 		</dict>
-		<key>statue_of_liberty.png</key>
+		<key>statue_of_liberty</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3732,7 +6675,16 @@
 			<key>Name</key>
 			<string>:statue_of_liberty:</string>
 		</dict>
-		<key>stew.png</key>
+		<key>steam_locomotive</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:steam_locomotive:</string>
+			</array>
+			<key>Name</key>
+			<string>:steam_locomotive:</string>
+		</dict>
+		<key>stew</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3741,7 +6693,16 @@
 			<key>Name</key>
 			<string>:stew:</string>
 		</dict>
-		<key>strawberry.png</key>
+		<key>straight_ruler</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:straight_ruler:</string>
+			</array>
+			<key>Name</key>
+			<string>:straight_ruler:</string>
+		</dict>
+		<key>strawberry</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3750,7 +6711,43 @@
 			<key>Name</key>
 			<string>:strawberry:</string>
 		</dict>
-		<key>sunflower.png</key>
+		<key>stuck_out_tongue</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:stuck_out_tongue:</string>
+			</array>
+			<key>Name</key>
+			<string>:stuck_out_tongue:</string>
+		</dict>
+		<key>stuck_out_tongue_closed_eyes</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:stuck_out_tongue_closed_eyes:</string>
+			</array>
+			<key>Name</key>
+			<string>:stuck_out_tongue_closed_eyes:</string>
+		</dict>
+		<key>stuck_out_tongue_winking_eye</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:stuck_out_tongue_winking_eye:</string>
+			</array>
+			<key>Name</key>
+			<string>:stuck_out_tongue_winking_eye:</string>
+		</dict>
+		<key>sun_with_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:sun_with_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:sun_with_face:</string>
+		</dict>
+		<key>sunflower</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3759,7 +6756,16 @@
 			<key>Name</key>
 			<string>:sunflower:</string>
 		</dict>
-		<key>sunny.png</key>
+		<key>sunglasses</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:sunglasses:</string>
+			</array>
+			<key>Name</key>
+			<string>:sunglasses:</string>
+		</dict>
+		<key>sunny</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3768,7 +6774,7 @@
 			<key>Name</key>
 			<string>:sunny:</string>
 		</dict>
-		<key>sunrise.png</key>
+		<key>sunrise</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3777,7 +6783,7 @@
 			<key>Name</key>
 			<string>:sunrise:</string>
 		</dict>
-		<key>sunrise_over_mountains.png</key>
+		<key>sunrise_over_mountains</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3786,7 +6792,7 @@
 			<key>Name</key>
 			<string>:sunrise_over_mountains:</string>
 		</dict>
-		<key>surfer.png</key>
+		<key>surfer</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3795,7 +6801,7 @@
 			<key>Name</key>
 			<string>:surfer:</string>
 		</dict>
-		<key>sushi.png</key>
+		<key>sushi</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3804,7 +6810,7 @@
 			<key>Name</key>
 			<string>:sushi:</string>
 		</dict>
-		<key>suspect.png</key>
+		<key>suspect</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3813,7 +6819,16 @@
 			<key>Name</key>
 			<string>:suspect:</string>
 		</dict>
-		<key>sweat.png</key>
+		<key>suspension_railway</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:suspension_railway:</string>
+			</array>
+			<key>Name</key>
+			<string>:suspension_railway:</string>
+		</dict>
+		<key>sweat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3822,7 +6837,7 @@
 			<key>Name</key>
 			<string>:sweat:</string>
 		</dict>
-		<key>sweat_drops.png</key>
+		<key>sweat_drops</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3831,7 +6846,25 @@
 			<key>Name</key>
 			<string>:sweat_drops:</string>
 		</dict>
-		<key>swimmer.png</key>
+		<key>sweat_smile</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:sweat_smile:</string>
+			</array>
+			<key>Name</key>
+			<string>:sweat_smile:</string>
+		</dict>
+		<key>sweet_potato</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:sweet_potato:</string>
+			</array>
+			<key>Name</key>
+			<string>:sweet_potato:</string>
+		</dict>
+		<key>swimmer</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3840,7 +6873,16 @@
 			<key>Name</key>
 			<string>:swimmer:</string>
 		</dict>
-		<key>syringe.png</key>
+		<key>symbols</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:symbols:</string>
+			</array>
+			<key>Name</key>
+			<string>:symbols:</string>
+		</dict>
+		<key>syringe</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3849,7 +6891,7 @@
 			<key>Name</key>
 			<string>:syringe:</string>
 		</dict>
-		<key>tada.png</key>
+		<key>tada</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3858,7 +6900,16 @@
 			<key>Name</key>
 			<string>:tada:</string>
 		</dict>
-		<key>tangerine.png</key>
+		<key>tanabata_tree</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:tanabata_tree:</string>
+			</array>
+			<key>Name</key>
+			<string>:tanabata_tree:</string>
+		</dict>
+		<key>tangerine</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3867,7 +6918,7 @@
 			<key>Name</key>
 			<string>:tangerine:</string>
 		</dict>
-		<key>taurus.png</key>
+		<key>taurus</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3876,7 +6927,7 @@
 			<key>Name</key>
 			<string>:taurus:</string>
 		</dict>
-		<key>taxi.png</key>
+		<key>taxi</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3885,7 +6936,7 @@
 			<key>Name</key>
 			<string>:taxi:</string>
 		</dict>
-		<key>tea.png</key>
+		<key>tea</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3894,7 +6945,7 @@
 			<key>Name</key>
 			<string>:tea:</string>
 		</dict>
-		<key>telephone.png</key>
+		<key>telephone</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3903,7 +6954,25 @@
 			<key>Name</key>
 			<string>:telephone:</string>
 		</dict>
-		<key>tennis.png</key>
+		<key>telephone_receiver</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:telephone_receiver:</string>
+			</array>
+			<key>Name</key>
+			<string>:telephone_receiver:</string>
+		</dict>
+		<key>telescope</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:telescope:</string>
+			</array>
+			<key>Name</key>
+			<string>:telescope:</string>
+		</dict>
+		<key>tennis</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3912,7 +6981,7 @@
 			<key>Name</key>
 			<string>:tennis:</string>
 		</dict>
-		<key>tent.png</key>
+		<key>tent</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3921,7 +6990,25 @@
 			<key>Name</key>
 			<string>:tent:</string>
 		</dict>
-		<key>thumbsdown.png</key>
+		<key>thought_balloon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:thought_balloon:</string>
+			</array>
+			<key>Name</key>
+			<string>:thought_balloon:</string>
+		</dict>
+		<key>three</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:three:</string>
+			</array>
+			<key>Name</key>
+			<string>:three:</string>
+		</dict>
+		<key>thumbsdown</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3930,7 +7017,7 @@
 			<key>Name</key>
 			<string>:thumbsdown:</string>
 		</dict>
-		<key>thumbsup.png</key>
+		<key>thumbsup</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3939,7 +7026,7 @@
 			<key>Name</key>
 			<string>:thumbsup:</string>
 		</dict>
-		<key>ticket.png</key>
+		<key>ticket</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3948,7 +7035,7 @@
 			<key>Name</key>
 			<string>:ticket:</string>
 		</dict>
-		<key>tiger.png</key>
+		<key>tiger</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3957,7 +7044,25 @@
 			<key>Name</key>
 			<string>:tiger:</string>
 		</dict>
-		<key>tm.png</key>
+		<key>tiger2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:tiger2:</string>
+			</array>
+			<key>Name</key>
+			<string>:tiger2:</string>
+		</dict>
+		<key>tired_face</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:tired_face:</string>
+			</array>
+			<key>Name</key>
+			<string>:tired_face:</string>
+		</dict>
+		<key>tm</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3966,7 +7071,7 @@
 			<key>Name</key>
 			<string>:tm:</string>
 		</dict>
-		<key>toilet.png</key>
+		<key>toilet</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3975,7 +7080,7 @@
 			<key>Name</key>
 			<string>:toilet:</string>
 		</dict>
-		<key>tokyo_tower.png</key>
+		<key>tokyo_tower</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3984,7 +7089,7 @@
 			<key>Name</key>
 			<string>:tokyo_tower:</string>
 		</dict>
-		<key>tomato.png</key>
+		<key>tomato</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -3993,7 +7098,7 @@
 			<key>Name</key>
 			<string>:tomato:</string>
 		</dict>
-		<key>tongue.png</key>
+		<key>tongue</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4002,7 +7107,7 @@
 			<key>Name</key>
 			<string>:tongue:</string>
 		</dict>
-		<key>top.png</key>
+		<key>top</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4011,7 +7116,7 @@
 			<key>Name</key>
 			<string>:top:</string>
 		</dict>
-		<key>tophat.png</key>
+		<key>tophat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4020,7 +7125,16 @@
 			<key>Name</key>
 			<string>:tophat:</string>
 		</dict>
-		<key>traffic_light.png</key>
+		<key>tractor</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:tractor:</string>
+			</array>
+			<key>Name</key>
+			<string>:tractor:</string>
+		</dict>
+		<key>traffic_light</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4029,7 +7143,7 @@
 			<key>Name</key>
 			<string>:traffic_light:</string>
 		</dict>
-		<key>train.png</key>
+		<key>train</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4038,7 +7152,43 @@
 			<key>Name</key>
 			<string>:train:</string>
 		</dict>
-		<key>trident.png</key>
+		<key>train2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:train2:</string>
+			</array>
+			<key>Name</key>
+			<string>:train2:</string>
+		</dict>
+		<key>tram</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:tram:</string>
+			</array>
+			<key>Name</key>
+			<string>:tram:</string>
+		</dict>
+		<key>triangular_flag_on_post</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:triangular_flag_on_post:</string>
+			</array>
+			<key>Name</key>
+			<string>:triangular_flag_on_post:</string>
+		</dict>
+		<key>triangular_ruler</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:triangular_ruler:</string>
+			</array>
+			<key>Name</key>
+			<string>:triangular_ruler:</string>
+		</dict>
+		<key>trident</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4047,7 +7197,25 @@
 			<key>Name</key>
 			<string>:trident:</string>
 		</dict>
-		<key>trollface.png</key>
+		<key>triumph</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:triumph:</string>
+			</array>
+			<key>Name</key>
+			<string>:triumph:</string>
+		</dict>
+		<key>trolleybus</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:trolleybus:</string>
+			</array>
+			<key>Name</key>
+			<string>:trolleybus:</string>
+		</dict>
+		<key>trollface</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4056,7 +7224,7 @@
 			<key>Name</key>
 			<string>:trollface:</string>
 		</dict>
-		<key>trophy.png</key>
+		<key>trophy</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4065,7 +7233,16 @@
 			<key>Name</key>
 			<string>:trophy:</string>
 		</dict>
-		<key>tropical_fish.png</key>
+		<key>tropical_drink</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:tropical_drink:</string>
+			</array>
+			<key>Name</key>
+			<string>:tropical_drink:</string>
+		</dict>
+		<key>tropical_fish</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4074,7 +7251,7 @@
 			<key>Name</key>
 			<string>:tropical_fish:</string>
 		</dict>
-		<key>truck.png</key>
+		<key>truck</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4083,7 +7260,7 @@
 			<key>Name</key>
 			<string>:truck:</string>
 		</dict>
-		<key>trumpet.png</key>
+		<key>trumpet</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4092,7 +7269,7 @@
 			<key>Name</key>
 			<string>:trumpet:</string>
 		</dict>
-		<key>tshirt.png</key>
+		<key>tshirt</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4101,7 +7278,7 @@
 			<key>Name</key>
 			<string>:tshirt:</string>
 		</dict>
-		<key>tulip.png</key>
+		<key>tulip</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4110,7 +7287,16 @@
 			<key>Name</key>
 			<string>:tulip:</string>
 		</dict>
-		<key>tv.png</key>
+		<key>turtle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:turtle:</string>
+			</array>
+			<key>Name</key>
+			<string>:turtle:</string>
+		</dict>
+		<key>tv</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4119,7 +7305,52 @@
 			<key>Name</key>
 			<string>:tv:</string>
 		</dict>
-		<key>u5272.png</key>
+		<key>twisted_rightwards_arrows</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:twisted_rightwards_arrows:</string>
+			</array>
+			<key>Name</key>
+			<string>:twisted_rightwards_arrows:</string>
+		</dict>
+		<key>two</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:two:</string>
+			</array>
+			<key>Name</key>
+			<string>:two:</string>
+		</dict>
+		<key>two_hearts</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:two_hearts:</string>
+			</array>
+			<key>Name</key>
+			<string>:two_hearts:</string>
+		</dict>
+		<key>two_men_holding_hands</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:two_men_holding_hands:</string>
+			</array>
+			<key>Name</key>
+			<string>:two_men_holding_hands:</string>
+		</dict>
+		<key>two_women_holding_hands</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:two_women_holding_hands:</string>
+			</array>
+			<key>Name</key>
+			<string>:two_women_holding_hands:</string>
+		</dict>
+		<key>u5272</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4128,7 +7359,16 @@
 			<key>Name</key>
 			<string>:u5272:</string>
 		</dict>
-		<key>u55b6.png</key>
+		<key>u5408</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:u5408:</string>
+			</array>
+			<key>Name</key>
+			<string>:u5408:</string>
+		</dict>
+		<key>u55b6</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4137,7 +7377,7 @@
 			<key>Name</key>
 			<string>:u55b6:</string>
 		</dict>
-		<key>u6307.png</key>
+		<key>u6307</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4146,7 +7386,7 @@
 			<key>Name</key>
 			<string>:u6307:</string>
 		</dict>
-		<key>u6708.png</key>
+		<key>u6708</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4155,7 +7395,7 @@
 			<key>Name</key>
 			<string>:u6708:</string>
 		</dict>
-		<key>u6709.png</key>
+		<key>u6709</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4164,7 +7404,7 @@
 			<key>Name</key>
 			<string>:u6709:</string>
 		</dict>
-		<key>u6e80.png</key>
+		<key>u6e80</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4173,7 +7413,7 @@
 			<key>Name</key>
 			<string>:u6e80:</string>
 		</dict>
-		<key>u7121.png</key>
+		<key>u7121</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4182,7 +7422,7 @@
 			<key>Name</key>
 			<string>:u7121:</string>
 		</dict>
-		<key>u7533.png</key>
+		<key>u7533</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4191,7 +7431,16 @@
 			<key>Name</key>
 			<string>:u7533:</string>
 		</dict>
-		<key>u7a7a.png</key>
+		<key>u7981</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:u7981:</string>
+			</array>
+			<key>Name</key>
+			<string>:u7981:</string>
+		</dict>
+		<key>u7a7a</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4200,7 +7449,16 @@
 			<key>Name</key>
 			<string>:u7a7a:</string>
 		</dict>
-		<key>umbrella.png</key>
+		<key>uk</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:uk:</string>
+			</array>
+			<key>Name</key>
+			<string>:uk:</string>
+		</dict>
+		<key>umbrella</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4209,7 +7467,7 @@
 			<key>Name</key>
 			<string>:umbrella:</string>
 		</dict>
-		<key>unamused.png</key>
+		<key>unamused</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4218,7 +7476,7 @@
 			<key>Name</key>
 			<string>:unamused:</string>
 		</dict>
-		<key>underage.png</key>
+		<key>underage</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4227,7 +7485,7 @@
 			<key>Name</key>
 			<string>:underage:</string>
 		</dict>
-		<key>unlock.png</key>
+		<key>unlock</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4236,7 +7494,7 @@
 			<key>Name</key>
 			<string>:unlock:</string>
 		</dict>
-		<key>up.png</key>
+		<key>up</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4245,7 +7503,7 @@
 			<key>Name</key>
 			<string>:up:</string>
 		</dict>
-		<key>us.png</key>
+		<key>us</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4254,7 +7512,7 @@
 			<key>Name</key>
 			<string>:us:</string>
 		</dict>
-		<key>v.png</key>
+		<key>v</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4263,7 +7521,16 @@
 			<key>Name</key>
 			<string>:v:</string>
 		</dict>
-		<key>vhs.png</key>
+		<key>vertical_traffic_light</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:vertical_traffic_light:</string>
+			</array>
+			<key>Name</key>
+			<string>:vertical_traffic_light:</string>
+		</dict>
+		<key>vhs</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4272,7 +7539,7 @@
 			<key>Name</key>
 			<string>:vhs:</string>
 		</dict>
-		<key>vibration_mode.png</key>
+		<key>vibration_mode</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4281,7 +7548,34 @@
 			<key>Name</key>
 			<string>:vibration_mode:</string>
 		</dict>
-		<key>virgo.png</key>
+		<key>video_camera</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:video_camera:</string>
+			</array>
+			<key>Name</key>
+			<string>:video_camera:</string>
+		</dict>
+		<key>video_game</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:video_game:</string>
+			</array>
+			<key>Name</key>
+			<string>:video_game:</string>
+		</dict>
+		<key>violin</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:violin:</string>
+			</array>
+			<key>Name</key>
+			<string>:violin:</string>
+		</dict>
+		<key>virgo</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4290,7 +7584,16 @@
 			<key>Name</key>
 			<string>:virgo:</string>
 		</dict>
-		<key>vs.png</key>
+		<key>volcano</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:volcano:</string>
+			</array>
+			<key>Name</key>
+			<string>:volcano:</string>
+		</dict>
+		<key>vs</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4299,7 +7602,7 @@
 			<key>Name</key>
 			<string>:vs:</string>
 		</dict>
-		<key>walking.png</key>
+		<key>walking</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4308,7 +7611,25 @@
 			<key>Name</key>
 			<string>:walking:</string>
 		</dict>
-		<key>warning.png</key>
+		<key>waning_crescent_moon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:waning_crescent_moon:</string>
+			</array>
+			<key>Name</key>
+			<string>:waning_crescent_moon:</string>
+		</dict>
+		<key>waning_gibbous_moon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:waning_gibbous_moon:</string>
+			</array>
+			<key>Name</key>
+			<string>:waning_gibbous_moon:</string>
+		</dict>
+		<key>warning</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4317,7 +7638,25 @@
 			<key>Name</key>
 			<string>:warning:</string>
 		</dict>
-		<key>watermelon.png</key>
+		<key>watch</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:watch:</string>
+			</array>
+			<key>Name</key>
+			<string>:watch:</string>
+		</dict>
+		<key>water_buffalo</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:water_buffalo:</string>
+			</array>
+			<key>Name</key>
+			<string>:water_buffalo:</string>
+		</dict>
+		<key>watermelon</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4326,7 +7665,7 @@
 			<key>Name</key>
 			<string>:watermelon:</string>
 		</dict>
-		<key>wave.png</key>
+		<key>wave</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4335,7 +7674,34 @@
 			<key>Name</key>
 			<string>:wave:</string>
 		</dict>
-		<key>wc.png</key>
+		<key>wavy_dash</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:wavy_dash:</string>
+			</array>
+			<key>Name</key>
+			<string>:wavy_dash:</string>
+		</dict>
+		<key>waxing_crescent_moon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:waxing_crescent_moon:</string>
+			</array>
+			<key>Name</key>
+			<string>:waxing_crescent_moon:</string>
+		</dict>
+		<key>waxing_gibbous_moon</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:waxing_gibbous_moon:</string>
+			</array>
+			<key>Name</key>
+			<string>:waxing_gibbous_moon:</string>
+		</dict>
+		<key>wc</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4344,7 +7710,16 @@
 			<key>Name</key>
 			<string>:wc:</string>
 		</dict>
-		<key>wedding.png</key>
+		<key>weary</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:weary:</string>
+			</array>
+			<key>Name</key>
+			<string>:weary:</string>
+		</dict>
+		<key>wedding</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4353,7 +7728,7 @@
 			<key>Name</key>
 			<string>:wedding:</string>
 		</dict>
-		<key>whale.png</key>
+		<key>whale</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4362,7 +7737,16 @@
 			<key>Name</key>
 			<string>:whale:</string>
 		</dict>
-		<key>wheelchair.png</key>
+		<key>whale2</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:whale2:</string>
+			</array>
+			<key>Name</key>
+			<string>:whale2:</string>
+		</dict>
+		<key>wheelchair</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4371,7 +7755,34 @@
 			<key>Name</key>
 			<string>:wheelchair:</string>
 		</dict>
-		<key>white_square.png</key>
+		<key>white_check_mark</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:white_check_mark:</string>
+			</array>
+			<key>Name</key>
+			<string>:white_check_mark:</string>
+		</dict>
+		<key>white_circle</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:white_circle:</string>
+			</array>
+			<key>Name</key>
+			<string>:white_circle:</string>
+		</dict>
+		<key>white_flower</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:white_flower:</string>
+			</array>
+			<key>Name</key>
+			<string>:white_flower:</string>
+		</dict>
+		<key>white_square</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4380,7 +7791,16 @@
 			<key>Name</key>
 			<string>:white_square:</string>
 		</dict>
-		<key>wind_chime.png</key>
+		<key>white_square_button</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:white_square_button:</string>
+			</array>
+			<key>Name</key>
+			<string>:white_square_button:</string>
+		</dict>
+		<key>wind_chime</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4389,7 +7809,16 @@
 			<key>Name</key>
 			<string>:wind_chime:</string>
 		</dict>
-		<key>wink.png</key>
+		<key>wine_glass</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:wine_glass:</string>
+			</array>
+			<key>Name</key>
+			<string>:wine_glass:</string>
+		</dict>
+		<key>wink</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4398,7 +7827,7 @@
 			<key>Name</key>
 			<string>:wink:</string>
 		</dict>
-		<key>wink2.png</key>
+		<key>wink2</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4407,7 +7836,7 @@
 			<key>Name</key>
 			<string>:wink2:</string>
 		</dict>
-		<key>wolf.png</key>
+		<key>wolf</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4416,7 +7845,7 @@
 			<key>Name</key>
 			<string>:wolf:</string>
 		</dict>
-		<key>woman.png</key>
+		<key>woman</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4425,7 +7854,16 @@
 			<key>Name</key>
 			<string>:woman:</string>
 		</dict>
-		<key>womans_hat.png</key>
+		<key>womans_clothes</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:womans_clothes:</string>
+			</array>
+			<key>Name</key>
+			<string>:womans_clothes:</string>
+		</dict>
+		<key>womans_hat</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4434,7 +7872,7 @@
 			<key>Name</key>
 			<string>:womans_hat:</string>
 		</dict>
-		<key>womens.png</key>
+		<key>womens</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4443,7 +7881,25 @@
 			<key>Name</key>
 			<string>:womens:</string>
 		</dict>
-		<key>x.png</key>
+		<key>worried</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:worried:</string>
+			</array>
+			<key>Name</key>
+			<string>:worried:</string>
+		</dict>
+		<key>wrench</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:wrench:</string>
+			</array>
+			<key>Name</key>
+			<string>:wrench:</string>
+		</dict>
+		<key>x</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4452,7 +7908,7 @@
 			<key>Name</key>
 			<string>:x:</string>
 		</dict>
-		<key>yellow_heart.png</key>
+		<key>yellow_heart</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4461,7 +7917,25 @@
 			<key>Name</key>
 			<string>:yellow_heart:</string>
 		</dict>
-		<key>zap.png</key>
+		<key>yen</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:yen:</string>
+			</array>
+			<key>Name</key>
+			<string>:yen:</string>
+		</dict>
+		<key>yum</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:yum:</string>
+			</array>
+			<key>Name</key>
+			<string>:yum:</string>
+		</dict>
+		<key>zap</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
@@ -4470,7 +7944,16 @@
 			<key>Name</key>
 			<string>:zap:</string>
 		</dict>
-		<key>zzz.png</key>
+		<key>zero</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:zero:</string>
+			</array>
+			<key>Name</key>
+			<string>:zero:</string>
+		</dict>
+		<key>zzz</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
